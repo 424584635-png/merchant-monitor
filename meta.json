@@ -1,21 +1,21 @@
 {
-  "dataTime": "2026-11-11 17:24:05",
-  "dydTime": "2026-11-11 17:24:05",
-  "cdydTime": "2026-11-11 17:21:50",
-  "buildTime": "2026-11-11 18:16:46",
+  "dataTime": "2026-11-11 20:49:34",
+  "dydTime": "2026-11-11 20:49:34",
+  "cdydTime": "2026-11-11 20:46:57",
+  "buildTime": "2026-11-11 20:49:43",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-11 今日",
-  "rows": 8776,
-  "fullCount": 95906,
-  "matchRate": 0.9977210574293528,
+  "rows": 8979,
+  "fullCount": 142121,
+  "matchRate": 0.9985521773025949,
   "lines": [
-    "1P高校",
+    "帮送",
     "大网",
     "经济保障",
+    "1P高校",
     "正常保障",
-    "帮送",
-    "-",
-    "帮买"
+    "帮买",
+    "-"
   ],
   "options": [
     "普通模式",
@@ -23,118 +23,118 @@
     "未匹配"
   ],
   "global": {
-    "push": 8776,
-    "done": 7356,
-    "cancel": 279,
-    "overtime": 695,
-    "arrived": 61,
-    "create": 66,
-    "ongoing": 1141
+    "push": 8979,
+    "done": 8140,
+    "cancel": 259,
+    "overtime": 686,
+    "arrived": 27,
+    "create": 31,
+    "ongoing": 580
   },
   "topOvertime": [
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 62,
-      "done": 55,
-      "cancel": 0,
-      "overtime": 19,
-      "arrived": 0,
-      "ongoing": 7
-    },
-    {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 52,
-      "done": 40,
-      "cancel": 1,
-      "overtime": 13,
-      "arrived": 0,
-      "ongoing": 11
-    },
-    {
       "name": "快邻达超市(普洱店)",
-      "push": 117,
-      "done": 108,
+      "push": 133,
+      "done": 124,
       "cancel": 2,
-      "overtime": 11,
-      "arrived": 1,
+      "overtime": 14,
+      "arrived": 0,
       "ongoing": 7
+    },
+    {
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 46,
+      "done": 45,
+      "cancel": 1,
+      "overtime": 12,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
+      "push": 41,
+      "done": 40,
+      "cancel": 0,
+      "overtime": 10,
+      "arrived": 1,
+      "ongoing": 1
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 67,
-      "done": 27,
-      "cancel": 36,
-      "overtime": 5,
+      "push": 82,
+      "done": 43,
+      "cancel": 33,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 4
-    },
-    {
-      "name": "盛吉惠·精品超市",
-      "push": 32,
-      "done": 17,
-      "cancel": 14,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 1
+      "ongoing": 6
     },
     {
       "name": "安心菜场（五一菜市场店）",
-      "push": 13,
-      "done": 4,
-      "cancel": 9,
-      "overtime": 2,
+      "push": 29,
+      "done": 18,
+      "cancel": 11,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 0
+    },
+    {
+      "name": "李小姐",
+      "push": 105,
+      "done": 89,
+      "cancel": 8,
+      "overtime": 8,
+      "arrived": 0,
+      "ongoing": 8
     }
   ],
   "topOngoing": [
     {
-      "name": "叙围(普洱店)",
-      "push": 78,
-      "done": 61,
-      "cancel": 1,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 16
-    },
-    {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 54,
-      "done": 38,
-      "cancel": 1,
-      "overtime": 4,
+      "name": "开心邻里(普洱店)",
+      "push": 87,
+      "done": 69,
+      "cancel": 3,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 15
     },
     {
-      "name": "鲁更叶麻辣烫·冒菜（普洱店）",
-      "push": 15,
-      "done": 2,
-      "cancel": 0,
+      "name": "沃尔玛(林源路店)",
+      "push": 87,
+      "done": 74,
+      "cancel": 3,
       "overtime": 0,
-      "arrived": 2,
-      "ongoing": 13
+      "arrived": 0,
+      "ongoing": 10
+    },
+    {
+      "name": "李小姐",
+      "push": 105,
+      "done": 89,
+      "cancel": 8,
+      "overtime": 8,
+      "arrived": 0,
+      "ongoing": 8
     }
   ],
-  "merchantCount": 1232,
-  "withDone": 1152,
-  "cardMeals": 2,
+  "merchantCount": 1268,
+  "withDone": 1214,
+  "cardMeals": 0,
   "images": [
     {
       "key": "arrived",
       "title": "配送骑手到店",
       "file": "top8_arrived.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_arrived.png?v=20261111181646"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_arrived.png?v=20261111204943"
     },
     {
       "key": "create",
       "title": "运单生成",
       "file": "top8_create.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_create.png?v=20261111181646"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_create.png?v=20261111204943"
     }
   ]
 }
