@@ -1,20 +1,20 @@
 {
-  "dataTime": "2026-11-11 22:03:09",
-  "dydTime": "2026-11-11 22:03:09",
-  "cdydTime": "2026-11-11 22:00:38",
-  "buildTime": "2026-11-11 23:10:11",
+  "dataTime": "2026-11-11 23:23:49",
+  "dydTime": "2026-11-11 23:23:49",
+  "cdydTime": "2026-11-11 23:21:03",
+  "buildTime": "2026-11-11 23:24:38",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-11 今日",
-  "rows": 27708,
-  "fullCount": 27708,
-  "matchRate": 0.3348852317020355,
+  "rows": 29120,
+  "fullCount": 29120,
+  "matchRate": 0.3239354395604396,
   "lines": [
     "大网",
     "蜂鸟",
     "经济保障",
+    "帮买帮送",
     "正常保障",
     "帮送",
-    "帮买帮送",
     "1P高校",
     "帮买"
   ],
@@ -23,118 +23,111 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 27708,
-    "done": 26025,
-    "cancel": 254,
-    "overtime": 696,
-    "arrived": 38,
-    "create": 56,
-    "ongoing": 1429
+    "push": 29120,
+    "done": 27574,
+    "cancel": 302,
+    "overtime": 714,
+    "arrived": 40,
+    "create": 65,
+    "ongoing": 1244
   },
   "topOvertime": [
     {
-      "name": "李小姐",
-      "push": 323,
-      "done": 281,
-      "cancel": 6,
-      "overtime": 15,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 165,
+      "done": 164,
+      "cancel": 0,
+      "overtime": 18,
       "arrived": 0,
-      "ongoing": 36
+      "ongoing": 1
+    },
+    {
+      "name": "云蜀快餐",
+      "push": 101,
+      "done": 96,
+      "cancel": 1,
+      "overtime": 11,
+      "arrived": 0,
+      "ongoing": 4
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 439,
-      "done": 410,
-      "cancel": 4,
-      "overtime": 11,
-      "arrived": 1,
-      "ongoing": 25
-    },
-    {
-      "name": "京东便利店",
-      "push": 209,
-      "done": 120,
-      "cancel": 28,
-      "overtime": 11,
-      "arrived": 0,
-      "ongoing": 61
+      "push": 466,
+      "done": 443,
+      "cancel": 6,
+      "overtime": 10,
+      "arrived": 3,
+      "ongoing": 17
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 209,
-      "done": 120,
+      "push": 220,
+      "done": 122,
       "cancel": 28,
-      "overtime": 11,
-      "arrived": 0,
-      "ongoing": 61
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 70
     },
     {
       "name": "德克士振兴店",
-      "push": 140,
-      "done": 111,
-      "cancel": 8,
+      "push": 159,
+      "done": 125,
+      "cancel": 13,
       "overtime": 5,
       "arrived": 0,
       "ongoing": 21
     },
     {
-      "name": "盛吉惠·精品超市",
-      "push": 91,
-      "done": 65,
-      "cancel": 8,
-      "overtime": 4,
+      "name": "李小姐",
+      "push": 329,
+      "done": 288,
+      "cancel": 10,
+      "overtime": 9,
       "arrived": 0,
-      "ongoing": 18
+      "ongoing": 31
     }
   ],
   "topOngoing": [
     {
       "name": "京东便利店",
-      "push": 209,
-      "done": 120,
+      "push": 220,
+      "done": 122,
       "cancel": 28,
-      "overtime": 11,
-      "arrived": 0,
-      "ongoing": 61
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 70
     },
     {
       "name": "李小姐",
-      "push": 323,
-      "done": 281,
-      "cancel": 6,
-      "overtime": 15,
+      "push": 329,
+      "done": 288,
+      "cancel": 10,
+      "overtime": 9,
       "arrived": 0,
-      "ongoing": 36
+      "ongoing": 31
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 286,
-      "done": 254,
+      "push": 316,
+      "done": 288,
       "cancel": 4,
-      "overtime": 7,
-      "arrived": 2,
-      "ongoing": 28
+      "overtime": 6,
+      "arrived": 1,
+      "ongoing": 24
     }
   ],
-  "merchantCount": 1640,
-  "withDone": 1571,
+  "merchantCount": 1654,
+  "withDone": 1591,
   "cardMeals": 0,
   "images": [
     {
-      "key": "arrived",
-      "title": "配送骑手到店",
-      "file": "top8_arrived.png",
+      "key": "combined",
+      "title": "大网 Top8 商户明细（到店+生成运单）",
+      "file": "top8_combined.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_arrived.png?v=20261111231011"
-    },
-    {
-      "key": "create",
-      "title": "运单生成",
-      "file": "top8_create.png",
-      "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_create.png?v=20261111231011"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined.png?v=20261111232438"
     }
   ]
 }
