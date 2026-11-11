@@ -2,7 +2,7 @@
   "dataTime": "2026-11-11 17:24:05",
   "dydTime": "2026-11-11 17:24:05",
   "cdydTime": "2026-11-11 17:21:50",
-  "buildTime": "2026-11-11 17:24:11",
+  "buildTime": "2026-11-11 18:07:48",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-11 今日",
   "rows": 8776,
@@ -127,14 +127,14 @@
       "title": "配送骑手到店",
       "file": "top8_arrived.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_arrived.png?v=20261111172411"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_arrived.png?v=20261111180748"
     },
     {
       "key": "create",
       "title": "运单生成",
       "file": "top8_create.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_create.png?v=20261111172411"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_create.png?v=20261111180748"
     }
   ]
 }
