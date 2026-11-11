@@ -1,0 +1,122 @@
+{
+  "dataTime": "2026-11-11 15:31:31",
+  "dydTime": "2026-11-11 15:31:31",
+  "cdydTime": "2026-11-11 15:27:56",
+  "buildTime": "2026-11-11 15:50:49",
+  "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
+  "scope": "2026-11-11 今日",
+  "rows": 8284,
+  "fullCount": 17315,
+  "matchRate": 0.9978271366489618,
+  "lines": [
+    "大网",
+    "正常保障",
+    "1P高校",
+    "经济保障",
+    "帮送",
+    "帮买"
+  ],
+  "options": [
+    "普通模式",
+    "出餐后调度",
+    "未匹配"
+  ],
+  "global": {
+    "push": 8284,
+    "done": 7623,
+    "cancel": 278,
+    "overtime": 797,
+    "arrived": 26,
+    "ongoing": 383
+  },
+  "topOvertime": [
+    {
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 57,
+      "done": 57,
+      "cancel": 0,
+      "overtime": 22,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "云蜀快餐",
+      "push": 36,
+      "done": 34,
+      "cancel": 1,
+      "overtime": 20,
+      "arrived": 0,
+      "ongoing": 1
+    },
+    {
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 45,
+      "done": 45,
+      "cancel": 0,
+      "overtime": 15,
+      "arrived": 0,
+      "ongoing": 0
+    }
+  ],
+  "topCancel": [
+    {
+      "name": "京东便利店",
+      "push": 62,
+      "done": 29,
+      "cancel": 33,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "盛吉惠·精品超市",
+      "push": 33,
+      "done": 20,
+      "cancel": 12,
+      "overtime": 5,
+      "arrived": 0,
+      "ongoing": 1
+    },
+    {
+      "name": "德克士振兴店",
+      "push": 40,
+      "done": 27,
+      "cancel": 9,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 4
+    }
+  ],
+  "topOngoing": [
+    {
+      "name": "老白族凉粉(二十多年老字号)",
+      "push": 36,
+      "done": 28,
+      "cancel": 0,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 8
+    },
+    {
+      "name": "沃尔玛(林源路店)",
+      "push": 68,
+      "done": 59,
+      "cancel": 2,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 7
+    },
+    {
+      "name": "古茗(普洱悦城时光里店)",
+      "push": 66,
+      "done": 58,
+      "cancel": 1,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 7
+    }
+  ],
+  "merchantCount": 1181,
+  "withDone": 1123,
+  "cardMeals": 0
+}

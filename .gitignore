@@ -1,0 +1,10 @@
+# 私密配置：绝不提交到公开仓库
+config.local.json
+config.local.*.json
+
+# 本地运行脚本与中间产物（全部只在本地执行）
+local/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
