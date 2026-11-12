@@ -2,7 +2,7 @@
   "dataTime": "2026-11-12 17:58:45",
   "dydTime": "2026-11-12 17:58:45",
   "cdydTime": "2026-11-12 17:55:46",
-  "buildTime": "2026-11-12 17:58:46",
+  "buildTime": "2026-11-12 18:05:29",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-12 今日",
   "rows": 17282,
@@ -124,11 +124,11 @@
   "scheduleNode": "17:30",
   "images": [
     {
-      "key": "detail",
-      "title": "大盘汇总 · 商户明细（全字段 Top50）",
-      "file": "merchant_detail_20261112175846.png",
-      "count": 50,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/merchant_detail_20261112175846.png"
+      "key": "combined",
+      "title": "大网 Top8 商户明细（到店+生成运单）",
+      "file": "top8_combined_20261112180529.png",
+      "count": 8,
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261112180529.png"
     }
   ]
 }
