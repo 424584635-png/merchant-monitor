@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-12 21:03:21",
-  "dydTime": "2026-11-12 21:03:21",
-  "cdydTime": "2026-11-12 21:00:37",
-  "buildTime": "2026-11-12 21:03:23",
+  "dataTime": "2026-11-12 22:03:33",
+  "dydTime": "2026-11-12 22:03:33",
+  "cdydTime": "2026-11-12 22:00:49",
+  "buildTime": "2026-11-12 22:03:35",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-12 今日",
-  "rows": 23741,
-  "fullCount": 23741,
-  "matchRate": 0.3837243587043511,
+  "rows": 25398,
+  "fullCount": 25398,
+  "matchRate": 0.35987085597291124,
   "lines": [
     "大网",
     "蜂鸟",
@@ -18,112 +18,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23741,
-    "done": 22044,
-    "cancel": 926,
-    "overtime": 637,
-    "arrived": 53,
-    "create": 56,
-    "ongoing": 771
+    "push": 25398,
+    "done": 23318,
+    "cancel": 1043,
+    "overtime": 587,
+    "arrived": 49,
+    "create": 52,
+    "ongoing": 1037
   },
   "topOvertime": [
     {
-      "name": "满意小吃(普洱学院店)",
-      "push": 61,
-      "done": 60,
-      "cancel": 1,
-      "overtime": 18,
+      "name": "肆囍",
+      "push": 304,
+      "done": 259,
+      "cancel": 38,
+      "overtime": 14,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 7
     },
     {
-      "name": "安心菜场（五一菜市场店）",
-      "push": 80,
-      "done": 57,
-      "cancel": 23,
-      "overtime": 15,
-      "arrived": 0,
-      "ongoing": 0
+      "name": "快邻达超市(普洱店)",
+      "push": 399,
+      "done": 368,
+      "cancel": 10,
+      "overtime": 13,
+      "arrived": 1,
+      "ongoing": 21
     },
     {
       "name": "京东便利店",
-      "push": 199,
-      "done": 78,
-      "cancel": 112,
+      "push": 240,
+      "done": 88,
+      "cancel": 135,
       "overtime": 13,
       "arrived": 0,
-      "ongoing": 9
+      "ongoing": 17
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 199,
-      "done": 78,
-      "cancel": 112,
+      "push": 240,
+      "done": 88,
+      "cancel": 135,
       "overtime": 13,
       "arrived": 0,
-      "ongoing": 9
+      "ongoing": 17
     },
     {
       "name": "盛吉惠·精品超市",
-      "push": 84,
-      "done": 25,
-      "cancel": 52,
-      "overtime": 4,
+      "push": 93,
+      "done": 29,
+      "cancel": 57,
+      "overtime": 3,
       "arrived": 1,
       "ongoing": 7
     },
     {
       "name": "肆囍",
-      "push": 285,
-      "done": 240,
-      "cancel": 35,
-      "overtime": 10,
+      "push": 304,
+      "done": 259,
+      "cancel": 38,
+      "overtime": 14,
       "arrived": 0,
-      "ongoing": 10
+      "ongoing": 7
     }
   ],
   "topOngoing": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 365,
-      "done": 330,
+      "push": 399,
+      "done": 368,
       "cancel": 10,
-      "overtime": 12,
-      "arrived": 0,
-      "ongoing": 25
-    },
-    {
-      "name": "开心邻里(普洱店)",
-      "push": 223,
-      "done": 203,
-      "cancel": 6,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 14
+      "overtime": 13,
+      "arrived": 1,
+      "ongoing": 21
     },
     {
       "name": "沃尔玛(林源路店)",
-      "push": 173,
-      "done": 157,
-      "cancel": 2,
+      "push": 194,
+      "done": 171,
+      "cancel": 4,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 14
+      "arrived": 9,
+      "ongoing": 19
+    },
+    {
+      "name": "老丁牛肉串（大世界店）",
+      "push": 95,
+      "done": 77,
+      "cancel": 0,
+      "overtime": 4,
+      "arrived": 2,
+      "ongoing": 18
     }
   ],
-  "merchantCount": 1643,
-  "withDone": 1577,
-  "cardMeals": 0,
-  "scheduleNode": "21:00",
+  "merchantCount": 1670,
+  "withDone": 1609,
+  "cardMeals": 2,
+  "scheduleNode": "22:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261112210323.png",
+      "file": "top8_combined_20261112220335.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261112210323.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261112220335.png"
     }
   ]
 }
