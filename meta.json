@@ -1,62 +1,62 @@
 {
-  "dataTime": "2026-11-12 10:32:34",
-  "dydTime": "2026-11-12 10:32:34",
-  "cdydTime": "2026-11-12 10:30:07",
-  "buildTime": "2026-11-12 10:32:34",
+  "dataTime": "2026-11-12 10:41:18",
+  "dydTime": "2026-11-12 10:41:18",
+  "cdydTime": "2026-11-12 10:38:39",
+  "buildTime": "2026-11-12 10:41:19",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-12 今日",
-  "rows": 3493,
-  "fullCount": 3493,
-  "matchRate": 0.46550243343830516,
+  "rows": 3762,
+  "fullCount": 3762,
+  "matchRate": 0.45268474215842636,
   "lines": [
     "大网",
     "经济保障",
     "蜂鸟",
     "正常保障",
     "帮送",
-    "帮买帮送",
-    "1P高校"
+    "1P高校",
+    "帮买帮送"
   ],
   "options": [
     "普通模式",
     "出餐后调度"
   ],
   "global": {
-    "push": 3493,
-    "done": 2768,
-    "cancel": 59,
-    "overtime": 33,
-    "arrived": 34,
-    "create": 180,
-    "ongoing": 666
+    "push": 3762,
+    "done": 2880,
+    "cancel": 55,
+    "overtime": 32,
+    "arrived": 37,
+    "create": 197,
+    "ongoing": 827
   },
   "topOvertime": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 75,
-      "done": 69,
-      "cancel": 1,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 5
+      "push": 79,
+      "done": 70,
+      "cancel": 2,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 7
     },
     {
-      "name": "邓超牛蛙·火冒三丈·龙虾烧烤",
-      "push": 20,
-      "done": 19,
+      "name": "湘当有味·鲜炒湖南菜",
+      "push": 8,
+      "done": 8,
       "cancel": 0,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 46,
+      "push": 48,
       "done": 40,
       "cancel": 0,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 6
+      "ongoing": 8
     }
   ],
   "topCancel": [
@@ -64,70 +64,70 @@
       "name": "京东便利店",
       "push": 15,
       "done": 8,
-      "cancel": 4,
+      "cancel": 6,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 1
     },
     {
       "name": "淘宝便利店(普洱店)",
-      "push": 53,
-      "done": 47,
+      "push": 54,
+      "done": 49,
       "cancel": 3,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 2
     },
     {
-      "name": "盛吉惠·精品超市",
-      "push": 7,
-      "done": 3,
-      "cancel": 3,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 1
+      "name": "快邻达超市(普洱店)",
+      "push": 79,
+      "done": 70,
+      "cancel": 2,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 7
     }
   ],
   "topOngoing": [
     {
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 20,
+      "done": 3,
+      "cancel": 0,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 17
+    },
+    {
       "name": "霸王茶姬(雅侎之星店)",
-      "push": 16,
+      "push": 18,
       "done": 1,
-      "cancel": 1,
+      "cancel": 0,
       "overtime": 0,
       "arrived": 1,
-      "ongoing": 14
+      "ongoing": 17
     },
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 70,
-      "done": 59,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 11
-    },
-    {
-      "name": "袁记云饺(天生祥1号店)",
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
       "push": 17,
-      "done": 6,
+      "done": 0,
       "cancel": 0,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 11
+      "ongoing": 17
     }
   ],
-  "merchantCount": 701,
-  "withDone": 548,
+  "merchantCount": 736,
+  "withDone": 575,
   "cardMeals": 0,
   "scheduleNode": "10:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined.png",
+      "file": "top8_combined_20261112104119.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined.png?v=20261112103234"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261112104119.png"
     }
   ]
 }
