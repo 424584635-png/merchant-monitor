@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-13 21:02:58",
-  "dydTime": "2026-11-13 21:02:58",
-  "cdydTime": "2026-11-13 21:00:36",
-  "buildTime": "2026-11-13 21:03:00",
+  "dataTime": "2026-11-13 22:02:52",
+  "dydTime": "2026-11-13 22:02:52",
+  "cdydTime": "2026-11-13 22:00:35",
+  "buildTime": "2026-11-13 22:02:55",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-13 今日",
-  "rows": 23501,
-  "fullCount": 23501,
-  "matchRate": 0.3607931577379686,
+  "rows": 24909,
+  "fullCount": 24909,
+  "matchRate": 0.35003412421213215,
   "lines": [
     "大网",
     "蜂鸟",
@@ -18,112 +18,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23501,
-    "done": 22218,
-    "cancel": 513,
-    "overtime": 332,
-    "arrived": 47,
-    "create": 60,
-    "ongoing": 770
+    "push": 24909,
+    "done": 23545,
+    "cancel": 562,
+    "overtime": 368,
+    "arrived": 49,
+    "create": 52,
+    "ongoing": 802
   },
   "topOvertime": [
     {
-      "name": "塔斯汀·中国汉堡(悦城时光里店)",
-      "push": 93,
-      "done": 86,
-      "cancel": 4,
-      "overtime": 7,
+      "name": "快邻达超市(普洱店)",
+      "push": 360,
+      "done": 335,
+      "cancel": 7,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 18
+    },
+    {
+      "name": "浅草风(普洱广场店)",
+      "push": 269,
+      "done": 252,
+      "cancel": 6,
+      "overtime": 6,
       "arrived": 1,
-      "ongoing": 3
+      "ongoing": 11
     },
     {
-      "name": "满意小吃(普洱学院店)",
-      "push": 48,
-      "done": 46,
-      "cancel": 0,
-      "overtime": 7,
-      "arrived": 0,
-      "ongoing": 2
-    },
-    {
-      "name": "茶百道(普洱学院店)",
-      "push": 98,
-      "done": 92,
-      "cancel": 4,
+      "name": "老丁牛肉串（大世界店）",
+      "push": 104,
+      "done": 97,
+      "cancel": 1,
       "overtime": 5,
-      "arrived": 0,
-      "ongoing": 2
+      "arrived": 2,
+      "ongoing": 6
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 61,
-      "done": 14,
-      "cancel": 46,
-      "overtime": 0,
+      "push": 64,
+      "done": 15,
+      "cancel": 49,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     },
     {
       "name": "张咪",
-      "push": 291,
-      "done": 253,
-      "cancel": 25,
-      "overtime": 2,
+      "push": 310,
+      "done": 271,
+      "cancel": 26,
+      "overtime": 4,
       "arrived": 0,
       "ongoing": 13
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 206,
-      "done": 187,
+      "push": 221,
+      "done": 204,
       "cancel": 11,
       "overtime": 3,
-      "arrived": 0,
-      "ongoing": 8
+      "arrived": 1,
+      "ongoing": 6
     }
   ],
   "topOngoing": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 326,
-      "done": 302,
+      "push": 360,
+      "done": 335,
       "cancel": 7,
-      "overtime": 3,
+      "overtime": 6,
       "arrived": 0,
-      "ongoing": 17
-    },
-    {
-      "name": "浅草风(普洱广场店)",
-      "push": 249,
-      "done": 227,
-      "cancel": 6,
-      "overtime": 4,
-      "arrived": 2,
-      "ongoing": 16
+      "ongoing": 18
     },
     {
       "name": "封二烧烤",
-      "push": 41,
-      "done": 26,
-      "cancel": 1,
+      "push": 59,
+      "done": 42,
+      "cancel": 2,
       "overtime": 0,
+      "arrived": 1,
+      "ongoing": 15
+    },
+    {
+      "name": "张咪",
+      "push": 310,
+      "done": 271,
+      "cancel": 26,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 14
+      "ongoing": 13
     }
   ],
-  "merchantCount": 1586,
-  "withDone": 1537,
+  "merchantCount": 1610,
+  "withDone": 1567,
   "cardMeals": 0,
-  "scheduleNode": "21:00",
+  "scheduleNode": "22:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261113210300.png",
+      "file": "top8_combined_20261113220255.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261113210300.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261113220255.png"
     }
   ]
 }
