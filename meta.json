@@ -2,16 +2,21 @@
   "dataTime": "2026-11-14 18:33:27",
   "dydTime": "2026-11-14 18:33:27",
   "cdydTime": "2026-11-14 18:30:30",
-  "buildTime": "2026-11-14 18:33:29",
+  "buildTime": "2026-11-14 19:12:14",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-14 今日",
   "rows": 23097,
   "fullCount": 23097,
   "matchRate": 0.3901805429276529,
   "lines": [
-    "蜂鸟",
     "大网",
-    "帮买帮送"
+    "全城送",
+    "1P高校",
+    "3P高校",
+    "帮买",
+    "帮送",
+    "正常保障",
+    "经济保障"
   ],
   "options": [
     "普通模式",
@@ -121,9 +126,9 @@
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261114183329.png",
+      "file": "top8_combined_20261114191214.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261114183329.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261114191214.png"
     }
   ]
 }
