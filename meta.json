@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-14 18:33:27",
-  "dydTime": "2026-11-14 18:33:27",
-  "cdydTime": "2026-11-14 18:30:30",
-  "buildTime": "2026-11-14 19:12:14",
+  "dataTime": "2026-11-14 20:32:47",
+  "dydTime": "2026-11-14 20:32:47",
+  "cdydTime": "2026-11-14 20:30:39",
+  "buildTime": "2026-11-14 20:32:49",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-14 今日",
-  "rows": 23097,
-  "fullCount": 23097,
-  "matchRate": 0.3901805429276529,
+  "rows": 27330,
+  "fullCount": 27330,
+  "matchRate": 0.33626051957555797,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23097,
-    "done": 21187,
-    "cancel": 476,
-    "overtime": 280,
-    "arrived": 88,
-    "create": 89,
-    "ongoing": 1434
+    "push": 27330,
+    "done": 25842,
+    "cancel": 593,
+    "overtime": 311,
+    "arrived": 66,
+    "create": 71,
+    "ongoing": 895
   },
   "topOvertime": [
     {
       "name": "满意小吃(普洱学院店)",
       "push": 58,
-      "done": 51,
+      "done": 56,
       "cancel": 2,
       "overtime": 9,
-      "arrived": 3,
-      "ongoing": 5
+      "arrived": 0,
+      "ongoing": 0
     },
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 83,
-      "done": 69,
+      "push": 87,
+      "done": 87,
       "cancel": 0,
       "overtime": 8,
-      "arrived": 3,
-      "ongoing": 14
+      "arrived": 0,
+      "ongoing": 0
     },
     {
-      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
-      "push": 103,
-      "done": 90,
-      "cancel": 1,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 12
+      "name": "德克士振兴店",
+      "push": 100,
+      "done": 92,
+      "cancel": 4,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 4
     }
   ],
   "topCancel": [
     {
       "name": "李师",
-      "push": 226,
-      "done": 184,
-      "cancel": 25,
-      "overtime": 4,
+      "push": 275,
+      "done": 235,
+      "cancel": 33,
+      "overtime": 3,
       "arrived": 1,
-      "ongoing": 17
+      "ongoing": 7
     },
     {
       "name": "京东便利店",
-      "push": 39,
-      "done": 16,
-      "cancel": 20,
+      "push": 50,
+      "done": 27,
+      "cancel": 23,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 0
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 187,
-      "done": 174,
-      "cancel": 6,
-      "overtime": 0,
+      "push": 237,
+      "done": 213,
+      "cancel": 8,
+      "overtime": 2,
       "arrived": 2,
-      "ongoing": 7
+      "ongoing": 16
     }
   ],
   "topOngoing": [
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 171,
-      "done": 152,
-      "cancel": 1,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 18
-    },
-    {
-      "name": "李师",
-      "push": 226,
-      "done": 184,
-      "cancel": 25,
+      "name": "快邻达超市(普洱店)",
+      "push": 370,
+      "done": 347,
+      "cancel": 4,
       "overtime": 4,
-      "arrived": 1,
-      "ongoing": 17
+      "arrived": 2,
+      "ongoing": 19
     },
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 163,
-      "done": 146,
-      "cancel": 2,
-      "overtime": 0,
+      "name": "优购哆超市(普洱店)",
+      "push": 241,
+      "done": 219,
+      "cancel": 6,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 16
+    },
+    {
+      "name": "开心邻里(普洱店)",
+      "push": 237,
+      "done": 213,
+      "cancel": 8,
+      "overtime": 2,
       "arrived": 2,
-      "ongoing": 15
+      "ongoing": 16
     }
   ],
-  "merchantCount": 1569,
-  "withDone": 1504,
-  "cardMeals": 1,
-  "scheduleNode": "18:30",
+  "merchantCount": 1643,
+  "withDone": 1589,
+  "cardMeals": 0,
+  "scheduleNode": "20:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261114191214.png",
+      "file": "top8_combined_20261114203249.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261114191214.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261114203249.png"
     }
   ]
 }
