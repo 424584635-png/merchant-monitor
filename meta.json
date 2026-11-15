@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-15 12:03:21",
-  "dydTime": "2026-11-15 12:03:21",
-  "cdydTime": "2026-11-15 12:00:21",
-  "buildTime": "2026-11-15 12:03:22",
+  "dataTime": "2026-11-15 13:33:08",
+  "dydTime": "2026-11-15 13:33:08",
+  "cdydTime": "2026-11-15 13:30:34",
+  "buildTime": "2026-11-15 13:33:09",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-15 今日",
-  "rows": 9199,
-  "fullCount": 9199,
-  "matchRate": 0.33210131536036525,
+  "rows": 13658,
+  "fullCount": 13658,
+  "matchRate": 0.6114365207204568,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 9199,
-    "done": 6618,
-    "cancel": 208,
-    "overtime": 63,
-    "arrived": 133,
-    "create": 96,
-    "ongoing": 2373
+    "push": 13658,
+    "done": 12048,
+    "cancel": 284,
+    "overtime": 261,
+    "arrived": 101,
+    "create": 113,
+    "ongoing": 1326
   },
   "topOvertime": [
     {
       "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 69,
-      "done": 30,
+      "push": 80,
+      "done": 79,
       "cancel": 1,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 38
-    },
-    {
-      "name": "霞光小筑（宁洱红米干）",
-      "push": 24,
-      "done": 24,
-      "cancel": 0,
-      "overtime": 3,
+      "overtime": 10,
       "arrived": 0,
       "ongoing": 0
     },
     {
-      "name": "F+牛肉饭(普洱学院西区食堂二楼店)",
-      "push": 22,
-      "done": 10,
-      "cancel": 0,
-      "overtime": 3,
-      "arrived": 0,
+      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
+      "push": 49,
+      "done": 42,
+      "cancel": 1,
+      "overtime": 6,
+      "arrived": 1,
+      "ongoing": 6
+    },
+    {
+      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
+      "push": 45,
+      "done": 32,
+      "cancel": 1,
+      "overtime": 6,
+      "arrived": 4,
       "ongoing": 12
     }
   ],
   "topCancel": [
     {
       "name": "王小兰",
-      "push": 74,
-      "done": 46,
-      "cancel": 21,
-      "overtime": 0,
-      "arrived": 1,
+      "push": 112,
+      "done": 80,
+      "cancel": 25,
+      "overtime": 1,
+      "arrived": 0,
       "ongoing": 7
     },
     {
       "name": "京东便利店",
-      "push": 39,
-      "done": 22,
+      "push": 43,
+      "done": 26,
       "cancel": 17,
-      "overtime": 0,
+      "overtime": 1,
       "arrived": 0,
       "ongoing": 0
     },
     {
-      "name": "未匹配(47640658)",
-      "push": 12,
-      "done": 7,
-      "cancel": 5,
-      "overtime": 0,
+      "name": "优购哆超市(普洱店)",
+      "push": 134,
+      "done": 118,
+      "cancel": 6,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 10
     }
   ],
   "topOngoing": [
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 52,
-      "done": 13,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 39
-    },
-    {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 69,
-      "done": 30,
+      "name": "浅草风(普洱广场店)",
+      "push": 125,
+      "done": 92,
       "cancel": 1,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 38
+      "overtime": 0,
+      "arrived": 4,
+      "ongoing": 32
     },
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 200,
-      "done": 162,
+      "name": "喜茶(普洱雅侎之星店)",
+      "push": 73,
+      "done": 48,
+      "cancel": 1,
+      "overtime": 0,
+      "arrived": 5,
+      "ongoing": 24
+    },
+    {
+      "name": "茶百道·现磨咖啡(阳光悦城店)",
+      "push": 69,
+      "done": 50,
       "cancel": 1,
       "overtime": 1,
-      "arrived": 2,
-      "ongoing": 37
+      "arrived": 0,
+      "ongoing": 18
     }
   ],
-  "merchantCount": 1182,
-  "withDone": 1041,
-  "cardMeals": 4,
-  "scheduleNode": "12:00",
+  "merchantCount": 1328,
+  "withDone": 1270,
+  "cardMeals": 2,
+  "scheduleNode": "13:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261115120322.png",
+      "file": "top8_combined_20261115133309.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261115120322.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261115133309.png"
     }
   ]
 }
