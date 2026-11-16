@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-16 15:32:57",
-  "dydTime": "2026-11-16 15:32:57",
-  "cdydTime": "2026-11-16 15:30:28",
-  "buildTime": "2026-11-16 15:32:58",
+  "dataTime": "2026-11-16 17:33:05",
+  "dydTime": "2026-11-16 17:33:05",
+  "cdydTime": "2026-11-16 17:30:29",
+  "buildTime": "2026-11-16 17:33:06",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-16 今日",
-  "rows": 12132,
-  "fullCount": 12132,
-  "matchRate": 0.6350148367952523,
+  "rows": 15256,
+  "fullCount": 15256,
+  "matchRate": 0.5572233875196644,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 12132,
-    "done": 11411,
-    "cancel": 233,
-    "overtime": 190,
-    "arrived": 32,
-    "create": 105,
-    "ongoing": 488
+    "push": 15256,
+    "done": 13814,
+    "cancel": 289,
+    "overtime": 185,
+    "arrived": 81,
+    "create": 85,
+    "ongoing": 1153
   },
   "topOvertime": [
     {
-      "name": "A·Coffee·shop",
-      "push": 11,
-      "done": 11,
-      "cancel": 0,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 0
-    },
-    {
-      "name": "优购哆超市(普洱店)",
-      "push": 138,
-      "done": 133,
-      "cancel": 2,
+      "name": "快邻达超市(普洱店)",
+      "push": 219,
+      "done": 197,
+      "cancel": 9,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 13
+    },
+    {
+      "name": "开心邻里(普洱店)",
+      "push": 158,
+      "done": 140,
+      "cancel": 4,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 14
     },
     {
       "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 91,
-      "done": 83,
+      "push": 110,
+      "done": 106,
       "cancel": 1,
       "overtime": 4,
-      "arrived": 1,
-      "ongoing": 7
+      "arrived": 0,
+      "ongoing": 3
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 21,
-      "done": 11,
+      "push": 23,
+      "done": 12,
       "cancel": 10,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 1
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 170,
-      "done": 149,
+      "push": 219,
+      "done": 197,
       "cancel": 9,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 13
     },
     {
-      "name": "星马快送超市（普洱店）",
-      "push": 12,
-      "done": 6,
-      "cancel": 6,
+      "name": "1",
+      "push": 156,
+      "done": 130,
+      "cancel": 8,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 0
+      "arrived": 1,
+      "ongoing": 18
     }
   ],
   "topOngoing": [
     {
-      "name": "老白族凉粉(二十多年老字号)",
-      "push": 93,
-      "done": 77,
-      "cancel": 2,
-      "overtime": 1,
+      "name": "1",
+      "push": 156,
+      "done": 130,
+      "cancel": 8,
+      "overtime": 0,
+      "arrived": 1,
+      "ongoing": 18
+    },
+    {
+      "name": "开心邻里(普洱店)",
+      "push": 158,
+      "done": 140,
+      "cancel": 4,
+      "overtime": 4,
       "arrived": 0,
       "ongoing": 14
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 170,
-      "done": 149,
-      "cancel": 9,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 94,
+      "done": 79,
+      "cancel": 1,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 12
-    },
-    {
-      "name": "开心邻里(普洱店)",
-      "push": 126,
-      "done": 114,
-      "cancel": 3,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 9
+      "ongoing": 14
     }
   ],
-  "merchantCount": 1280,
-  "withDone": 1240,
-  "cardMeals": 0,
-  "scheduleNode": "15:30",
+  "merchantCount": 1381,
+  "withDone": 1333,
+  "cardMeals": 2,
+  "scheduleNode": "17:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261116153258.png",
+      "file": "top8_combined_20261116173306.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116153258.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116173306.png"
     }
   ]
 }
