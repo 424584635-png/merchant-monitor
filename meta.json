@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-16 13:33:21",
-  "dydTime": "2026-11-16 13:33:21",
-  "cdydTime": "2026-11-16 13:30:29",
-  "buildTime": "2026-11-16 13:33:22",
+  "dataTime": "2026-11-16 15:32:57",
+  "dydTime": "2026-11-16 15:32:57",
+  "cdydTime": "2026-11-16 15:30:28",
+  "buildTime": "2026-11-16 15:32:58",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-16 今日",
-  "rows": 9859,
-  "fullCount": 9859,
-  "matchRate": 0.27244142407952127,
+  "rows": 12132,
+  "fullCount": 12132,
+  "matchRate": 0.6350148367952523,
   "lines": [
     "大网",
     "全城送",
@@ -23,41 +23,41 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 9859,
-    "done": 9056,
-    "cancel": 195,
-    "overtime": 93,
-    "arrived": 34,
-    "create": 100,
-    "ongoing": 608
+    "push": 12132,
+    "done": 11411,
+    "cancel": 233,
+    "overtime": 190,
+    "arrived": 32,
+    "create": 105,
+    "ongoing": 488
   },
   "topOvertime": [
     {
-      "name": "满意小吃(普洱学院店)",
-      "push": 14,
-      "done": 14,
-      "cancel": 0,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 0
-    },
-    {
       "name": "A·Coffee·shop",
-      "push": 10,
-      "done": 10,
+      "push": 11,
+      "done": 11,
       "cancel": 0,
-      "overtime": 4,
+      "overtime": 6,
       "arrived": 0,
       "ongoing": 0
     },
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 49,
-      "done": 45,
-      "cancel": 1,
-      "overtime": 3,
+      "name": "优购哆超市(普洱店)",
+      "push": 138,
+      "done": 133,
+      "cancel": 2,
+      "overtime": 4,
       "arrived": 0,
       "ongoing": 3
+    },
+    {
+      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
+      "push": 91,
+      "done": 83,
+      "cancel": 1,
+      "overtime": 4,
+      "arrived": 1,
+      "ongoing": 7
     }
   ],
   "topCancel": [
@@ -72,17 +72,17 @@
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 125,
-      "done": 103,
+      "push": 170,
+      "done": 149,
       "cancel": 9,
-      "overtime": 0,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 13
+      "ongoing": 12
     },
     {
       "name": "星马快送超市（普洱店）",
-      "push": 10,
-      "done": 4,
+      "push": 12,
+      "done": 6,
       "cancel": 6,
       "overtime": 0,
       "arrived": 0,
@@ -91,44 +91,44 @@
   ],
   "topOngoing": [
     {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 74,
-      "done": 59,
-      "cancel": 0,
-      "overtime": 0,
+      "name": "老白族凉粉(二十多年老字号)",
+      "push": 93,
+      "done": 77,
+      "cancel": 2,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 15
+      "ongoing": 14
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 125,
-      "done": 103,
+      "push": 170,
+      "done": 149,
       "cancel": 9,
-      "overtime": 0,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 13
+      "ongoing": 12
     },
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 78,
-      "done": 66,
-      "cancel": 1,
-      "overtime": 2,
-      "arrived": 2,
-      "ongoing": 11
+      "name": "开心邻里(普洱店)",
+      "push": 126,
+      "done": 114,
+      "cancel": 3,
+      "overtime": 3,
+      "arrived": 0,
+      "ongoing": 9
     }
   ],
-  "merchantCount": 1176,
-  "withDone": 1137,
+  "merchantCount": 1280,
+  "withDone": 1240,
   "cardMeals": 0,
-  "scheduleNode": "13:30",
+  "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261116133322.png",
+      "file": "top8_combined_20261116153258.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116133322.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116153258.png"
     }
   ]
 }
