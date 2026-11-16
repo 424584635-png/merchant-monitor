@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-16 12:03:03",
-  "dydTime": "2026-11-16 12:03:03",
-  "cdydTime": "2026-11-16 12:00:18",
-  "buildTime": "2026-11-16 12:03:03",
+  "dataTime": "2026-11-16 13:33:21",
+  "dydTime": "2026-11-16 13:33:21",
+  "cdydTime": "2026-11-16 13:30:29",
+  "buildTime": "2026-11-16 13:33:22",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-16 今日",
-  "rows": 7188,
-  "fullCount": 7188,
-  "matchRate": 0.28046744574290483,
+  "rows": 9859,
+  "fullCount": 9859,
+  "matchRate": 0.27244142407952127,
   "lines": [
     "大网",
     "全城送",
@@ -23,67 +23,67 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 7188,
-    "done": 5501,
-    "cancel": 154,
-    "overtime": 35,
-    "arrived": 97,
-    "create": 76,
-    "ongoing": 1533
+    "push": 9859,
+    "done": 9056,
+    "cancel": 195,
+    "overtime": 93,
+    "arrived": 34,
+    "create": 100,
+    "ongoing": 608
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 62,
-      "done": 40,
+      "name": "满意小吃(普洱学院店)",
+      "push": 14,
+      "done": 14,
+      "cancel": 0,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "A·Coffee·shop",
+      "push": 10,
+      "done": 10,
+      "cancel": 0,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 49,
+      "done": 45,
       "cancel": 1,
-      "overtime": 2,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 21
-    },
-    {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 56,
-      "done": 44,
-      "cancel": 0,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 12
-    },
-    {
-      "name": "好当家营养自选餐(东区一楼基本食堂店)",
-      "push": 37,
-      "done": 26,
-      "cancel": 0,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 11
+      "ongoing": 3
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 20,
+      "push": 21,
       "done": 11,
-      "cancel": 9,
+      "cancel": 10,
       "overtime": 0,
       "arrived": 0,
       "ongoing": 0
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 96,
-      "done": 79,
-      "cancel": 8,
+      "push": 125,
+      "done": 103,
+      "cancel": 9,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 9
+      "ongoing": 13
     },
     {
-      "name": "鲜达菜场（五一市场店）TZF",
-      "push": 5,
-      "done": 1,
-      "cancel": 4,
+      "name": "星马快送超市（普洱店）",
+      "push": 10,
+      "done": 4,
+      "cancel": 6,
       "overtime": 0,
       "arrived": 0,
       "ongoing": 0
@@ -91,44 +91,44 @@
   ],
   "topOngoing": [
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 124,
-      "done": 103,
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 74,
+      "done": 59,
       "cancel": 0,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 21
+      "ongoing": 15
     },
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 62,
-      "done": 40,
-      "cancel": 1,
-      "overtime": 2,
+      "name": "快邻达超市(普洱店)",
+      "push": 125,
+      "done": 103,
+      "cancel": 9,
+      "overtime": 0,
       "arrived": 0,
-      "ongoing": 21
+      "ongoing": 13
     },
     {
       "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 49,
-      "done": 27,
+      "push": 78,
+      "done": 66,
       "cancel": 1,
-      "overtime": 0,
-      "arrived": 3,
-      "ongoing": 21
+      "overtime": 2,
+      "arrived": 2,
+      "ongoing": 11
     }
   ],
-  "merchantCount": 1065,
-  "withDone": 955,
-  "cardMeals": 2,
-  "scheduleNode": "12:00",
+  "merchantCount": 1176,
+  "withDone": 1137,
+  "cardMeals": 0,
+  "scheduleNode": "13:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261116120303.png",
+      "file": "top8_combined_20261116133322.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116120303.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116133322.png"
     }
   ]
 }
