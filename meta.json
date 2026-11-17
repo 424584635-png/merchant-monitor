@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-17 11:32:29",
-  "dydTime": "2026-11-17 11:32:29",
-  "cdydTime": "2026-11-17 11:30:12",
-  "buildTime": "2026-11-17 11:32:29",
+  "dataTime": "2026-11-17 12:03:18",
+  "dydTime": "2026-11-17 12:03:18",
+  "cdydTime": "2026-11-17 12:00:19",
+  "buildTime": "2026-11-17 12:03:19",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-17 今日",
-  "rows": 6007,
-  "fullCount": 6007,
-  "matchRate": 0.1869485600133178,
+  "rows": 7359,
+  "fullCount": 7359,
+  "matchRate": 0.3092811523304797,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 6007,
-    "done": 4158,
-    "cancel": 130,
-    "overtime": 13,
-    "arrived": 124,
-    "create": 127,
-    "ongoing": 1719
+    "push": 7359,
+    "done": 5648,
+    "cancel": 153,
+    "overtime": 38,
+    "arrived": 100,
+    "create": 73,
+    "ongoing": 1558
   },
   "topOvertime": [
     {
-      "name": "淘宝便利店(普洱店)",
-      "push": 52,
-      "done": 48,
-      "cancel": 2,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 2
-    },
-    {
       "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 52,
-      "done": 16,
+      "push": 61,
+      "done": 43,
       "cancel": 0,
-      "overtime": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 36
+      "ongoing": 18
     },
     {
-      "name": "景东风味米线（普院东区食堂二楼）",
-      "push": 40,
-      "done": 26,
-      "cancel": 0,
-      "overtime": 1,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 67,
+      "done": 45,
+      "cancel": 1,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 14
+      "ongoing": 21
+    },
+    {
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 141,
+      "done": 125,
+      "cancel": 1,
+      "overtime": 1,
+      "arrived": 1,
+      "ongoing": 15
     }
   ],
   "topCancel": [
     {
       "name": "小圆",
-      "push": 59,
-      "done": 34,
+      "push": 67,
+      "done": 41,
       "cancel": 15,
       "overtime": 0,
-      "arrived": 1,
-      "ongoing": 10
+      "arrived": 0,
+      "ongoing": 11
     },
     {
       "name": "奈雪的茶(普洱思茅悦城时光里店)",
-      "push": 16,
-      "done": 4,
+      "push": 17,
+      "done": 7,
       "cancel": 9,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 1
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 73,
-      "done": 63,
+      "push": 80,
+      "done": 67,
       "cancel": 5,
       "overtime": 0,
-      "arrived": 1,
-      "ongoing": 5
+      "arrived": 0,
+      "ongoing": 8
     }
   ],
   "topOngoing": [
     {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 58,
-      "done": 13,
+      "name": "云蜀快餐",
+      "push": 36,
+      "done": 6,
       "cancel": 1,
       "overtime": 0,
-      "arrived": 12,
-      "ongoing": 44
+      "arrived": 0,
+      "ongoing": 29
     },
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "name": "叙围(普洱店)",
       "push": 52,
-      "done": 16,
+      "done": 30,
       "cancel": 0,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 36
+      "ongoing": 22
     },
     {
       "name": "版纳人家米线（普院东区食堂店）",
-      "push": 57,
-      "done": 30,
+      "push": 67,
+      "done": 45,
       "cancel": 1,
-      "overtime": 0,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 26
+      "ongoing": 21
     }
   ],
-  "merchantCount": 956,
-  "withDone": 788,
-  "cardMeals": 4,
-  "scheduleNode": "11:30",
+  "merchantCount": 1047,
+  "withDone": 950,
+  "cardMeals": 1,
+  "scheduleNode": "12:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261117113229.png",
+      "file": "top8_combined_20261117120319.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117113229.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117120319.png"
     }
   ]
 }
