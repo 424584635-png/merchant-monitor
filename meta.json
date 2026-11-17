@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-17 13:33:08",
-  "dydTime": "2026-11-17 13:33:08",
-  "cdydTime": "2026-11-17 13:30:31",
-  "buildTime": "2026-11-17 13:33:09",
+  "dataTime": "2026-11-17 15:33:40",
+  "dydTime": "2026-11-17 15:33:40",
+  "cdydTime": "2026-11-17 15:30:21",
+  "buildTime": "2026-11-17 15:33:41",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-17 今日",
-  "rows": 9974,
-  "fullCount": 9974,
-  "matchRate": 0.22458391818728696,
+  "rows": 12189,
+  "fullCount": 12189,
+  "matchRate": 0.6326195750266634,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 9974,
-    "done": 9233,
-    "cancel": 201,
-    "overtime": 92,
-    "arrived": 38,
-    "create": 82,
-    "ongoing": 540
+    "push": 12189,
+    "done": 11495,
+    "cancel": 248,
+    "overtime": 196,
+    "arrived": 35,
+    "create": 83,
+    "ongoing": 446
   },
   "topOvertime": [
     {
-      "name": "台北鸡油饭(普洱店)",
-      "push": 19,
-      "done": 18,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 63,
+      "done": 63,
       "cancel": 0,
-      "overtime": 3,
+      "overtime": 8,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     },
     {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 76,
-      "done": 74,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 74,
+      "done": 73,
       "cancel": 1,
-      "overtime": 2,
+      "overtime": 6,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 75,
-      "done": 69,
-      "cancel": 0,
-      "overtime": 2,
+      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
+      "push": 57,
+      "done": 54,
+      "cancel": 2,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 6
+      "ongoing": 1
     }
   ],
   "topCancel": [
     {
       "name": "小圆",
-      "push": 88,
-      "done": 69,
-      "cancel": 16,
+      "push": 120,
+      "done": 98,
+      "cancel": 19,
       "overtime": 1,
-      "arrived": 1,
+      "arrived": 0,
       "ongoing": 3
     },
     {
       "name": "奈雪的茶(普洱思茅悦城时光里店)",
-      "push": 27,
-      "done": 14,
+      "push": 37,
+      "done": 26,
       "cancel": 9,
       "overtime": 0,
-      "arrived": 1,
-      "ongoing": 4
+      "arrived": 2,
+      "ongoing": 2
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 101,
-      "done": 88,
+      "push": 126,
+      "done": 114,
       "cancel": 8,
-      "overtime": 1,
+      "overtime": 0,
       "arrived": 0,
-      "ongoing": 5
+      "ongoing": 4
     }
   ],
   "topOngoing": [
     {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 83,
-      "done": 67,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 3,
-      "ongoing": 16
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 135,
-      "done": 124,
-      "cancel": 0,
-      "overtime": 1,
-      "arrived": 1,
-      "ongoing": 11
-    },
-    {
       "name": "喜茶(普洱雅侎之星店)",
-      "push": 33,
-      "done": 20,
-      "cancel": 2,
+      "push": 67,
+      "done": 52,
+      "cancel": 4,
       "overtime": 0,
-      "arrived": 1,
+      "arrived": 0,
       "ongoing": 11
+    },
+    {
+      "name": "优购哆超市(普洱店)",
+      "push": 147,
+      "done": 131,
+      "cancel": 6,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 10
+    },
+    {
+      "name": "沃尔玛(林源路店)",
+      "push": 76,
+      "done": 64,
+      "cancel": 3,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 9
     }
   ],
-  "merchantCount": 1185,
-  "withDone": 1143,
+  "merchantCount": 1308,
+  "withDone": 1259,
   "cardMeals": 0,
-  "scheduleNode": "13:30",
+  "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261117133309.png",
+      "file": "top8_combined_20261117153341.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117133309.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117153341.png"
     }
   ]
 }
