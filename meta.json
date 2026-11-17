@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-17 12:03:18",
-  "dydTime": "2026-11-17 12:03:18",
-  "cdydTime": "2026-11-17 12:00:19",
-  "buildTime": "2026-11-17 12:03:19",
+  "dataTime": "2026-11-17 13:33:08",
+  "dydTime": "2026-11-17 13:33:08",
+  "cdydTime": "2026-11-17 13:30:31",
+  "buildTime": "2026-11-17 13:33:09",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-17 今日",
-  "rows": 7359,
-  "fullCount": 7359,
-  "matchRate": 0.3092811523304797,
+  "rows": 9974,
+  "fullCount": 9974,
+  "matchRate": 0.22458391818728696,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 7359,
-    "done": 5648,
-    "cancel": 153,
-    "overtime": 38,
-    "arrived": 100,
-    "create": 73,
-    "ongoing": 1558
+    "push": 9974,
+    "done": 9233,
+    "cancel": 201,
+    "overtime": 92,
+    "arrived": 38,
+    "create": 82,
+    "ongoing": 540
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 61,
-      "done": 43,
+      "name": "台北鸡油饭(普洱店)",
+      "push": 19,
+      "done": 18,
       "cancel": 0,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 18
+      "ongoing": 1
     },
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 67,
-      "done": 45,
+      "name": "滇禾轻食·中式健康餐(普洱店)",
+      "push": 76,
+      "done": 74,
       "cancel": 1,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 21
+      "ongoing": 1
     },
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 141,
-      "done": 125,
-      "cancel": 1,
-      "overtime": 1,
-      "arrived": 1,
-      "ongoing": 15
+      "name": "叙围(普洱店)",
+      "push": 75,
+      "done": 69,
+      "cancel": 0,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 6
     }
   ],
   "topCancel": [
     {
       "name": "小圆",
-      "push": 67,
-      "done": 41,
-      "cancel": 15,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 11
+      "push": 88,
+      "done": 69,
+      "cancel": 16,
+      "overtime": 1,
+      "arrived": 1,
+      "ongoing": 3
     },
     {
       "name": "奈雪的茶(普洱思茅悦城时光里店)",
-      "push": 17,
-      "done": 7,
+      "push": 27,
+      "done": 14,
       "cancel": 9,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 1
+      "arrived": 1,
+      "ongoing": 4
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 80,
-      "done": 67,
-      "cancel": 5,
-      "overtime": 0,
+      "push": 101,
+      "done": 88,
+      "cancel": 8,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 8
+      "ongoing": 5
     }
   ],
   "topOngoing": [
     {
-      "name": "云蜀快餐",
-      "push": 36,
-      "done": 6,
-      "cancel": 1,
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 83,
+      "done": 67,
+      "cancel": 0,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 29
+      "arrived": 3,
+      "ongoing": 16
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 52,
-      "done": 30,
+      "name": "快邻达超市(普洱店)",
+      "push": 135,
+      "done": 124,
       "cancel": 0,
       "overtime": 1,
-      "arrived": 0,
-      "ongoing": 22
+      "arrived": 1,
+      "ongoing": 11
     },
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 67,
-      "done": 45,
-      "cancel": 1,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 21
+      "name": "喜茶(普洱雅侎之星店)",
+      "push": 33,
+      "done": 20,
+      "cancel": 2,
+      "overtime": 0,
+      "arrived": 1,
+      "ongoing": 11
     }
   ],
-  "merchantCount": 1047,
-  "withDone": 950,
-  "cardMeals": 1,
-  "scheduleNode": "12:00",
+  "merchantCount": 1185,
+  "withDone": 1143,
+  "cardMeals": 0,
+  "scheduleNode": "13:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261117120319.png",
+      "file": "top8_combined_20261117133309.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117120319.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117133309.png"
     }
   ]
 }
