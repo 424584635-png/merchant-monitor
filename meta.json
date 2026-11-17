@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-17 22:03:15",
-  "dydTime": "2026-11-17 22:03:15",
-  "cdydTime": "2026-11-17 22:00:34",
-  "buildTime": "2026-11-17 22:03:17",
+  "dataTime": "2026-11-17 23:33:26",
+  "dydTime": "2026-11-17 23:33:26",
+  "cdydTime": "2026-11-17 23:30:35",
+  "buildTime": "2026-11-17 23:33:28",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-17 今日",
-  "rows": 23394,
-  "fullCount": 23394,
-  "matchRate": 0.3749679404975635,
+  "rows": 24786,
+  "fullCount": 24786,
+  "matchRate": 0.3842491729201969,
   "lines": [
     "大网",
     "全城送",
@@ -23,13 +23,13 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23394,
-    "done": 22384,
-    "cancel": 493,
-    "overtime": 217,
-    "arrived": 45,
-    "create": 41,
-    "ongoing": 517
+    "push": 24786,
+    "done": 23900,
+    "cancel": 525,
+    "overtime": 238,
+    "arrived": 43,
+    "create": 68,
+    "ongoing": 361
   },
   "topOvertime": [
     {
@@ -37,98 +37,98 @@
       "push": 108,
       "done": 104,
       "cancel": 4,
-      "overtime": 5,
+      "overtime": 6,
       "arrived": 0,
       "ongoing": 0
+    },
+    {
+      "name": "快邻达超市(普洱店)",
+      "push": 394,
+      "done": 383,
+      "cancel": 3,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 8
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 247,
-      "done": 228,
-      "cancel": 8,
+      "push": 285,
+      "done": 266,
+      "cancel": 9,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 11
-    },
-    {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 104,
-      "done": 103,
-      "cancel": 1,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 0
+      "ongoing": 10
     }
   ],
   "topCancel": [
     {
       "name": "小圆",
-      "push": 239,
-      "done": 207,
-      "cancel": 30,
+      "push": 249,
+      "done": 214,
+      "cancel": 31,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 2
-    },
-    {
-      "name": "全好佳超市(普洱店)",
-      "push": 190,
-      "done": 176,
-      "cancel": 9,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 5
+      "ongoing": 4
     },
     {
       "name": "奈雪的茶(普洱思茅悦城时光里店)",
-      "push": 60,
-      "done": 51,
-      "cancel": 9,
+      "push": 68,
+      "done": 54,
+      "cancel": 10,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 4
+    },
+    {
+      "name": "开心邻里(普洱店)",
+      "push": 285,
+      "done": 266,
+      "cancel": 9,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 10
     }
   ],
   "topOngoing": [
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 357,
-      "done": 340,
-      "cancel": 3,
-      "overtime": 2,
+      "name": "开心邻里(普洱店)",
+      "push": 285,
+      "done": 266,
+      "cancel": 9,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 14
+      "ongoing": 10
     },
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 174,
-      "done": 156,
-      "cancel": 5,
-      "overtime": 0,
-      "arrived": 2,
-      "ongoing": 13
+      "name": "快邻达超市(普洱店)",
+      "push": 394,
+      "done": 383,
+      "cancel": 3,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 8
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 246,
-      "done": 226,
+      "push": 277,
+      "done": 261,
       "cancel": 8,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 12
+      "overtime": 1,
+      "arrived": 1,
+      "ongoing": 8
     }
   ],
-  "merchantCount": 1590,
-  "withDone": 1557,
+  "merchantCount": 1608,
+  "withDone": 1580,
   "cardMeals": 0,
-  "scheduleNode": "22:00",
+  "scheduleNode": "23:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261117220317.png",
+      "file": "top8_combined_20261117233328.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117220317.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117233328.png"
     }
   ]
 }
