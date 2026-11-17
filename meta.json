@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-16 23:33:15",
-  "dydTime": "2026-11-16 23:33:15",
-  "cdydTime": "2026-11-16 23:30:43",
-  "buildTime": "2026-11-16 23:33:16",
+  "dataTime": "2026-11-17 10:32:47",
+  "dydTime": "2026-11-17 10:32:47",
+  "cdydTime": "2026-11-17 10:30:09",
+  "buildTime": "2026-11-17 10:32:48",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
-  "scope": "2026-11-16 今日",
-  "rows": 24561,
-  "fullCount": 24561,
-  "matchRate": 0.34522210007735843,
+  "scope": "2026-11-17 今日",
+  "rows": 3390,
+  "fullCount": 3390,
+  "matchRate": 0.45781710914454277,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 24561,
-    "done": 23681,
-    "cancel": 493,
-    "overtime": 203,
-    "arrived": 39,
-    "create": 69,
-    "ongoing": 387
+    "push": 3390,
+    "done": 2695,
+    "cancel": 82,
+    "overtime": 25,
+    "arrived": 18,
+    "create": 165,
+    "ongoing": 613
   },
   "topOvertime": [
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 433,
-      "done": 406,
-      "cancel": 16,
-      "overtime": 7,
-      "arrived": 1,
-      "ongoing": 11
-    },
-    {
-      "name": "1",
-      "push": 268,
-      "done": 247,
-      "cancel": 17,
-      "overtime": 5,
+      "name": "重庆小面(思茅总店)",
+      "push": 36,
+      "done": 32,
+      "cancel": 0,
+      "overtime": 2,
       "arrived": 0,
       "ongoing": 4
     },
     {
-      "name": "开心邻里(普洱店)",
-      "push": 289,
-      "done": 273,
-      "cancel": 8,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 8
+      "name": "东北劲水饺馆(普洱思茅老街店)",
+      "push": 24,
+      "done": 23,
+      "cancel": 0,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 1
+    },
+    {
+      "name": "石屏烧烤鸡脚王",
+      "push": 7,
+      "done": 7,
+      "cancel": 0,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
-      "name": "京东便利店",
-      "push": 38,
-      "done": 19,
-      "cancel": 19,
+      "name": "小圆",
+      "push": 35,
+      "done": 20,
+      "cancel": 8,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 0
+      "arrived": 2,
+      "ongoing": 7
     },
     {
-      "name": "1",
-      "push": 268,
-      "done": 247,
-      "cancel": 17,
-      "overtime": 5,
+      "name": "全好佳超市(普洱店)",
+      "push": 60,
+      "done": 51,
+      "cancel": 5,
+      "overtime": 0,
       "arrived": 0,
       "ongoing": 4
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 433,
-      "done": 406,
-      "cancel": 16,
-      "overtime": 7,
-      "arrived": 1,
-      "ongoing": 11
+      "name": "书亦烧仙草(悦城时光里店)",
+      "push": 39,
+      "done": 35,
+      "cancel": 3,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 1
     }
   ],
   "topOngoing": [
     {
+      "name": "沃尔玛(林源路店)",
+      "push": 25,
+      "done": 12,
+      "cancel": 1,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 12
+    },
+    {
+      "name": "景东风味米线（普院东区食堂二楼）",
+      "push": 13,
+      "done": 2,
+      "cancel": 0,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 11
+    },
+    {
       "name": "快邻达超市(普洱店)",
-      "push": 433,
-      "done": 406,
-      "cancel": 16,
-      "overtime": 7,
+      "push": 78,
+      "done": 68,
+      "cancel": 0,
+      "overtime": 0,
       "arrived": 1,
-      "ongoing": 11
-    },
-    {
-      "name": "优购哆超市(普洱店)",
-      "push": 296,
-      "done": 279,
-      "cancel": 6,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 11
-    },
-    {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 186,
-      "done": 174,
-      "cancel": 3,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 9
+      "ongoing": 10
     }
   ],
-  "merchantCount": 1588,
-  "withDone": 1564,
+  "merchantCount": 679,
+  "withDone": 512,
   "cardMeals": 0,
-  "scheduleNode": "23:30",
+  "scheduleNode": "10:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261116233316.png",
+      "file": "top8_combined_20261117103248.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261116233316.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261117103248.png"
     }
   ]
 }
