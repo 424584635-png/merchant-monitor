@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-18 21:02:59",
-  "dydTime": "2026-11-18 21:02:59",
-  "cdydTime": "2026-11-18 21:00:47",
-  "buildTime": "2026-11-18 21:03:01",
+  "dataTime": "2026-11-18 22:03:31",
+  "dydTime": "2026-11-18 22:03:31",
+  "cdydTime": "2026-11-18 22:00:41",
+  "buildTime": "2026-11-18 22:03:34",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-18 今日",
-  "rows": 21953,
-  "fullCount": 21953,
-  "matchRate": 0.3860520202250262,
+  "rows": 23142,
+  "fullCount": 23142,
+  "matchRate": 0.3756373692852822,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 21953,
-    "done": 20944,
-    "cancel": 450,
-    "overtime": 250,
-    "arrived": 58,
+    "push": 23142,
+    "done": 22147,
+    "cancel": 481,
+    "overtime": 259,
+    "arrived": 53,
     "create": 38,
-    "ongoing": 559
+    "ongoing": 514
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 122,
-      "done": 121,
-      "cancel": 1,
-      "overtime": 15,
-      "arrived": 0,
-      "ongoing": 0
+      "name": "李",
+      "push": 273,
+      "done": 244,
+      "cancel": 25,
+      "overtime": 6,
+      "arrived": 1,
+      "ongoing": 4
     },
     {
       "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
       "push": 111,
-      "done": 102,
+      "done": 105,
       "cancel": 5,
       "overtime": 6,
       "arrived": 0,
-      "ongoing": 4
+      "ongoing": 1
     },
     {
-      "name": "孙大叔大锅牛肉饭(阳光悦城店)",
-      "push": 74,
-      "done": 73,
-      "cancel": 0,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 1
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 182,
+      "done": 174,
+      "cancel": 3,
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 5
     }
   ],
   "topCancel": [
     {
       "name": "李",
-      "push": 262,
-      "done": 231,
+      "push": 273,
+      "done": 244,
       "cancel": 25,
-      "overtime": 3,
+      "overtime": 6,
       "arrived": 1,
-      "ongoing": 6
+      "ongoing": 4
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 346,
-      "done": 325,
-      "cancel": 9,
+      "push": 369,
+      "done": 351,
+      "cancel": 10,
       "overtime": 1,
-      "arrived": 0,
-      "ongoing": 12
+      "arrived": 1,
+      "ongoing": 8
     },
     {
-      "name": "星马快送超市（普洱店）",
-      "push": 11,
-      "done": 1,
+      "name": "京东便利店",
+      "push": 19,
+      "done": 11,
       "cancel": 8,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 0
     }
   ],
   "topOngoing": [
     {
       "name": "开心邻里(普洱店)",
-      "push": 239,
-      "done": 220,
+      "push": 260,
+      "done": 240,
       "cancel": 6,
-      "overtime": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 13
+      "ongoing": 14
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 346,
-      "done": 325,
-      "cancel": 9,
+      "push": 369,
+      "done": 351,
+      "cancel": 10,
       "overtime": 1,
-      "arrived": 0,
-      "ongoing": 12
+      "arrived": 1,
+      "ongoing": 8
     },
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 170,
-      "done": 156,
-      "cancel": 3,
+      "name": "淘宝便利店(普洱店)",
+      "push": 180,
+      "done": 168,
+      "cancel": 4,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 11
+      "ongoing": 8
     }
   ],
-  "merchantCount": 1606,
-  "withDone": 1569,
-  "cardMeals": 1,
-  "scheduleNode": "21:00",
+  "merchantCount": 1625,
+  "withDone": 1589,
+  "cardMeals": 0,
+  "scheduleNode": "22:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261118210301.png",
+      "file": "top8_combined_20261118220334.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261118210301.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261118220334.png"
     }
   ]
 }
