@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-19 22:03:30",
-  "dydTime": "2026-11-19 22:03:30",
-  "cdydTime": "2026-11-19 22:00:40",
-  "buildTime": "2026-11-19 22:03:32",
+  "dataTime": "2026-11-19 23:33:21",
+  "dydTime": "2026-11-19 23:33:21",
+  "cdydTime": "2026-11-19 23:30:39",
+  "buildTime": "2026-11-19 23:33:24",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-19 今日",
-  "rows": 24059,
-  "fullCount": 24059,
-  "matchRate": 0.371420258531111,
+  "rows": 25822,
+  "fullCount": 25822,
+  "matchRate": 0.36561846487491284,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 24059,
-    "done": 22844,
-    "cancel": 473,
-    "overtime": 234,
-    "arrived": 43,
-    "create": 63,
-    "ongoing": 742
+    "push": 25822,
+    "done": 24518,
+    "cancel": 555,
+    "overtime": 424,
+    "arrived": 22,
+    "create": 92,
+    "ongoing": 749
   },
   "topOvertime": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 373,
-      "done": 346,
+      "push": 444,
+      "done": 399,
       "cancel": 7,
-      "overtime": 6,
-      "arrived": 1,
-      "ongoing": 20
+      "overtime": 13,
+      "arrived": 0,
+      "ongoing": 38
     },
     {
-      "name": "惠邻百佳超市(普洱店)",
-      "push": 87,
-      "done": 80,
-      "cancel": 2,
-      "overtime": 4,
+      "name": "开心邻里(普洱店)",
+      "push": 283,
+      "done": 261,
+      "cancel": 8,
+      "overtime": 11,
+      "arrived": 0,
+      "ongoing": 14
+    },
+    {
+      "name": "嗯",
+      "push": 263,
+      "done": 237,
+      "cancel": 21,
+      "overtime": 7,
       "arrived": 0,
       "ongoing": 5
-    },
-    {
-      "name": "叙围(普洱店)",
-      "push": 195,
-      "done": 194,
-      "cancel": 1,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 0
     }
   ],
   "topCancel": [
     {
-      "name": "嗯",
-      "push": 247,
-      "done": 222,
-      "cancel": 21,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 4
-    },
-    {
       "name": "京东便利店",
-      "push": 31,
-      "done": 14,
-      "cancel": 16,
+      "push": 61,
+      "done": 26,
+      "cancel": 28,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 7
+    },
+    {
+      "name": "嗯",
+      "push": 263,
+      "done": 237,
+      "cancel": 21,
+      "overtime": 7,
+      "arrived": 0,
+      "ongoing": 5
     },
     {
       "name": "星马快送超市(普洱店)",
-      "push": 146,
-      "done": 133,
+      "push": 153,
+      "done": 142,
       "cancel": 9,
-      "overtime": 1,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 4
+      "ongoing": 2
     }
   ],
   "topOngoing": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 373,
-      "done": 346,
+      "push": 444,
+      "done": 399,
       "cancel": 7,
-      "overtime": 6,
-      "arrived": 1,
-      "ongoing": 20
+      "overtime": 13,
+      "arrived": 0,
+      "ongoing": 38
     },
     {
-      "name": "开心邻里(普洱店)",
-      "push": 243,
-      "done": 219,
-      "cancel": 4,
-      "overtime": 1,
+      "name": "优购哆超市(普洱店)",
+      "push": 300,
+      "done": 274,
+      "cancel": 5,
+      "overtime": 5,
       "arrived": 0,
-      "ongoing": 20
+      "ongoing": 21
     },
     {
       "name": "只投螺碗柳州螺蛳粉",
-      "push": 187,
-      "done": 170,
+      "push": 215,
+      "done": 194,
       "cancel": 5,
-      "overtime": 1,
+      "overtime": 7,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 16
     }
   ],
-  "merchantCount": 1658,
-  "withDone": 1606,
+  "merchantCount": 1686,
+  "withDone": 1641,
   "cardMeals": 0,
-  "scheduleNode": "22:00",
+  "scheduleNode": "23:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261119220332.png",
+      "file": "top8_combined_20261119233324.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119220332.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119233324.png"
     }
   ]
 }
