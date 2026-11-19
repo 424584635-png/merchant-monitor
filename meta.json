@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-19 13:33:17",
-  "dydTime": "2026-11-19 13:33:17",
-  "cdydTime": "2026-11-19 13:30:26",
-  "buildTime": "2026-11-19 13:33:18",
+  "dataTime": "2026-11-19 15:33:30",
+  "dydTime": "2026-11-19 15:33:30",
+  "cdydTime": "2026-11-19 15:30:21",
+  "buildTime": "2026-11-19 15:33:31",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-19 今日",
-  "rows": 10105,
-  "fullCount": 10105,
-  "matchRate": 0.21266699653636814,
+  "rows": 12501,
+  "fullCount": 12501,
+  "matchRate": 0.6653867690584753,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 10105,
-    "done": 9351,
-    "cancel": 205,
-    "overtime": 60,
-    "arrived": 44,
-    "create": 104,
-    "ongoing": 549
+    "push": 12501,
+    "done": 11726,
+    "cancel": 237,
+    "overtime": 217,
+    "arrived": 25,
+    "create": 124,
+    "ongoing": 538
   },
   "topOvertime": [
     {
-      "name": "全好佳超市(普洱店)",
-      "push": 88,
-      "done": 82,
-      "cancel": 3,
-      "overtime": 3,
-      "arrived": 1,
-      "ongoing": 3
-    },
-    {
-      "name": "袁老奶米线(思澜碑店)",
-      "push": 57,
-      "done": 56,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 71,
+      "done": 70,
       "cancel": 1,
-      "overtime": 2,
+      "overtime": 9,
       "arrived": 0,
       "ongoing": 0
     },
     {
-      "name": "袁记云饺(天生祥1号店)",
-      "push": 35,
-      "done": 33,
+      "name": "快邻达超市(普洱店)",
+      "push": 172,
+      "done": 157,
+      "cancel": 4,
+      "overtime": 4,
+      "arrived": 1,
+      "ongoing": 11
+    },
+    {
+      "name": "云县鸡肉米线(（民族街店）)",
+      "push": 58,
+      "done": 58,
       "cancel": 0,
-      "overtime": 2,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 20,
+      "push": 23,
       "done": 9,
-      "cancel": 11,
+      "cancel": 14,
       "overtime": 0,
       "arrived": 0,
       "ongoing": 0
     },
     {
       "name": "嗯",
-      "push": 81,
-      "done": 71,
-      "cancel": 6,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 4
+      "push": 113,
+      "done": 94,
+      "cancel": 8,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 11
     },
     {
       "name": "星马快送超市(普洱店)",
-      "push": 52,
-      "done": 43,
-      "cancel": 6,
-      "overtime": 0,
+      "push": 72,
+      "done": 61,
+      "cancel": 7,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 4
     }
   ],
   "topOngoing": [
     {
+      "name": "浅草风(普洱广场店)",
+      "push": 96,
+      "done": 83,
+      "cancel": 1,
+      "overtime": 1,
+      "arrived": 1,
+      "ongoing": 12
+    },
+    {
       "name": "快邻达超市(普洱店)",
-      "push": 127,
-      "done": 114,
+      "push": 172,
+      "done": 157,
       "cancel": 4,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 9
+      "overtime": 4,
+      "arrived": 1,
+      "ongoing": 11
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 81,
-      "done": 72,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 2,
-      "ongoing": 9
-    },
-    {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 72,
-      "done": 61,
-      "cancel": 2,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 9
+      "name": "嗯",
+      "push": 113,
+      "done": 94,
+      "cancel": 8,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 11
     }
   ],
-  "merchantCount": 1240,
-  "withDone": 1195,
+  "merchantCount": 1349,
+  "withDone": 1304,
   "cardMeals": 0,
-  "scheduleNode": "13:30",
+  "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261119133318.png",
+      "file": "top8_combined_20261119153331.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119133318.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119153331.png"
     }
   ]
 }
