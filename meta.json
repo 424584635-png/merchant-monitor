@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-19 10:32:35",
-  "dydTime": "2026-11-19 10:32:35",
-  "cdydTime": "2026-11-19 10:30:07",
-  "buildTime": "2026-11-19 10:32:36",
+  "dataTime": "2026-11-19 11:33:01",
+  "dydTime": "2026-11-19 11:33:01",
+  "cdydTime": "2026-11-19 11:30:09",
+  "buildTime": "2026-11-19 11:33:01",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-19 今日",
-  "rows": 3500,
-  "fullCount": 3500,
-  "matchRate": 0.4725714285714286,
+  "rows": 6044,
+  "fullCount": 6044,
+  "matchRate": 0.2514890800794176,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 3500,
-    "done": 2790,
-    "cancel": 105,
-    "overtime": 45,
-    "arrived": 39,
-    "create": 165,
-    "ongoing": 605
+    "push": 6044,
+    "done": 4222,
+    "cancel": 141,
+    "overtime": 17,
+    "arrived": 108,
+    "create": 129,
+    "ongoing": 1681
   },
   "topOvertime": [
     {
-      "name": "云县鸡肉米线(（民族街店）)",
-      "push": 43,
-      "done": 43,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 58,
+      "done": 19,
       "cancel": 0,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 39
     },
     {
-      "name": "嗯",
-      "push": 25,
-      "done": 17,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 57,
+      "done": 20,
       "cancel": 1,
       "overtime": 2,
-      "arrived": 1,
-      "ongoing": 7
+      "arrived": 0,
+      "ongoing": 36
     },
     {
-      "name": "小琳鸭货店（卤味）",
-      "push": 14,
-      "done": 13,
-      "cancel": 0,
-      "overtime": 2,
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 124,
+      "done": 98,
+      "cancel": 1,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 25
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 19,
+      "push": 20,
       "done": 9,
-      "cancel": 10,
+      "cancel": 11,
       "overtime": 0,
       "arrived": 0,
       "ongoing": 0
     },
     {
       "name": "星马快送超市(普洱店)",
-      "push": 32,
-      "done": 19,
+      "push": 37,
+      "done": 29,
+      "cancel": 5,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 3
+    },
+    {
+      "name": "快邻达超市(普洱店)",
+      "push": 80,
+      "done": 68,
       "cancel": 4,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 9
-    },
-    {
-      "name": "星马快送超市（普洱店）",
-      "push": 5,
-      "done": 2,
-      "cancel": 3,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 0
+      "ongoing": 8
     }
   ],
   "topOngoing": [
     {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 17,
-      "done": 2,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 58,
+      "done": 19,
       "cancel": 0,
-      "overtime": 0,
-      "arrived": 6,
-      "ongoing": 15
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 39
     },
     {
-      "name": "霸王茶姬(雅侎之星店)",
-      "push": 16,
-      "done": 1,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 2,
-      "ongoing": 15
-    },
-    {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 78,
-      "done": 66,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 57,
+      "done": 20,
       "cancel": 1,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 36
+    },
+    {
+      "name": "好当家营养自选餐(东区一楼基本食堂店)",
+      "push": 43,
+      "done": 12,
+      "cancel": 0,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 11
+      "ongoing": 31
     }
   ],
-  "merchantCount": 714,
-  "withDone": 548,
-  "cardMeals": 1,
-  "scheduleNode": "10:30",
+  "merchantCount": 987,
+  "withDone": 814,
+  "cardMeals": 2,
+  "scheduleNode": "11:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261119103236.png",
+      "file": "top8_combined_20261119113301.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119103236.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119113301.png"
     }
   ]
 }
