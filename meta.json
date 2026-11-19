@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-19 12:02:58",
-  "dydTime": "2026-11-19 12:02:58",
-  "cdydTime": "2026-11-19 12:00:13",
-  "buildTime": "2026-11-19 12:02:58",
+  "dataTime": "2026-11-19 13:33:17",
+  "dydTime": "2026-11-19 13:33:17",
+  "cdydTime": "2026-11-19 13:30:26",
+  "buildTime": "2026-11-19 13:33:18",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-19 今日",
-  "rows": 7495,
-  "fullCount": 7495,
-  "matchRate": 0.2968645763842562,
+  "rows": 10105,
+  "fullCount": 10105,
+  "matchRate": 0.21266699653636814,
   "lines": [
     "大网",
     "全城送",
@@ -23,41 +23,41 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 7495,
-    "done": 5718,
-    "cancel": 160,
-    "overtime": 58,
-    "arrived": 95,
-    "create": 78,
-    "ongoing": 1617
+    "push": 10105,
+    "done": 9351,
+    "cancel": 205,
+    "overtime": 60,
+    "arrived": 44,
+    "create": 104,
+    "ongoing": 549
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 64,
-      "done": 39,
+      "name": "全好佳超市(普洱店)",
+      "push": 88,
+      "done": 82,
+      "cancel": 3,
+      "overtime": 3,
+      "arrived": 1,
+      "ongoing": 3
+    },
+    {
+      "name": "袁老奶米线(思澜碑店)",
+      "push": 57,
+      "done": 56,
       "cancel": 1,
-      "overtime": 6,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 24
+      "ongoing": 0
     },
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 70,
-      "done": 49,
-      "cancel": 0,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 21
-    },
-    {
-      "name": "F+牛肉饭(普洱学院西区食堂二楼店)",
-      "push": 14,
-      "done": 13,
+      "name": "袁记云饺(天生祥1号店)",
+      "push": 35,
+      "done": 33,
       "cancel": 0,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 2
     }
   ],
   "topCancel": [
@@ -71,64 +71,64 @@
       "ongoing": 0
     },
     {
+      "name": "嗯",
+      "push": 81,
+      "done": 71,
+      "cancel": 6,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 4
+    },
+    {
       "name": "星马快送超市(普洱店)",
-      "push": 39,
-      "done": 31,
+      "push": 52,
+      "done": 43,
       "cancel": 6,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 2
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 93,
-      "done": 76,
-      "cancel": 4,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 13
+      "ongoing": 3
     }
   ],
   "topOngoing": [
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 155,
-      "done": 130,
-      "cancel": 1,
-      "overtime": 1,
-      "arrived": 1,
-      "ongoing": 24
-    },
-    {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 64,
-      "done": 39,
-      "cancel": 1,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 24
-    },
-    {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 53,
-      "done": 28,
-      "cancel": 1,
+      "name": "快邻达超市(普洱店)",
+      "push": 127,
+      "done": 114,
+      "cancel": 4,
       "overtime": 0,
-      "arrived": 4,
-      "ongoing": 24
+      "arrived": 0,
+      "ongoing": 9
+    },
+    {
+      "name": "叙围(普洱店)",
+      "push": 81,
+      "done": 72,
+      "cancel": 0,
+      "overtime": 0,
+      "arrived": 2,
+      "ongoing": 9
+    },
+    {
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 72,
+      "done": 61,
+      "cancel": 2,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 9
     }
   ],
-  "merchantCount": 1095,
-  "withDone": 972,
-  "cardMeals": 1,
-  "scheduleNode": "12:00",
+  "merchantCount": 1240,
+  "withDone": 1195,
+  "cardMeals": 0,
+  "scheduleNode": "13:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261119120258.png",
+      "file": "top8_combined_20261119133318.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119120258.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261119133318.png"
     }
   ]
 }
