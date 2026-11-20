@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-20 17:32:58",
-  "dydTime": "2026-11-20 17:32:58",
-  "cdydTime": "2026-11-20 17:30:26",
-  "buildTime": "2026-11-20 17:33:00",
+  "dataTime": "2026-11-20 18:32:58",
+  "dydTime": "2026-11-20 18:32:58",
+  "cdydTime": "2026-11-20 18:30:40",
+  "buildTime": "2026-11-20 18:32:59",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-20 今日",
-  "rows": 16660,
-  "fullCount": 16660,
-  "matchRate": 0.5211284513805522,
+  "rows": 19390,
+  "fullCount": 19390,
+  "matchRate": 0.4483754512635379,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 16660,
-    "done": 14964,
-    "cancel": 356,
-    "overtime": 225,
-    "arrived": 101,
-    "create": 139,
-    "ongoing": 1340
+    "push": 19390,
+    "done": 17614,
+    "cancel": 426,
+    "overtime": 245,
+    "arrived": 99,
+    "create": 122,
+    "ongoing": 1350
   },
   "topOvertime": [
     {
       "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 90,
-      "done": 73,
+      "push": 98,
+      "done": 94,
       "cancel": 0,
       "overtime": 8,
       "arrived": 0,
+      "ongoing": 4
+    },
+    {
+      "name": "向",
+      "push": 226,
+      "done": 182,
+      "cancel": 27,
+      "overtime": 5,
+      "arrived": 2,
       "ongoing": 17
     },
     {
       "name": "老白族凉粉(二十多年老字号)",
-      "push": 136,
-      "done": 129,
+      "push": 154,
+      "done": 148,
       "cancel": 1,
       "overtime": 5,
       "arrived": 0,
-      "ongoing": 6
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 222,
-      "done": 203,
-      "cancel": 4,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 15
+      "ongoing": 5
     }
   ],
   "topCancel": [
     {
       "name": "向",
-      "push": 187,
-      "done": 148,
-      "cancel": 22,
-      "overtime": 3,
-      "arrived": 0,
+      "push": 226,
+      "done": 182,
+      "cancel": 27,
+      "overtime": 5,
+      "arrived": 2,
       "ongoing": 17
     },
     {
       "name": "京东便利店",
-      "push": 35,
-      "done": 11,
+      "push": 38,
+      "done": 13,
       "cancel": 22,
-      "overtime": 2,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 3
     },
     {
       "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 125,
-      "done": 99,
-      "cancel": 8,
-      "overtime": 2,
+      "push": 144,
+      "done": 123,
+      "cancel": 12,
+      "overtime": 0,
       "arrived": 1,
-      "ongoing": 18
+      "ongoing": 9
     }
   ],
   "topOngoing": [
     {
       "name": "库迪咖啡(雅侎之星店)",
-      "push": 258,
-      "done": 220,
+      "push": 266,
+      "done": 227,
       "cancel": 7,
-      "overtime": 0,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 31
+      "ongoing": 32
     },
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 118,
-      "done": 95,
-      "cancel": 1,
-      "overtime": 0,
-      "arrived": 6,
-      "ongoing": 22
+      "name": "向",
+      "push": 226,
+      "done": 182,
+      "cancel": 27,
+      "overtime": 5,
+      "arrived": 2,
+      "ongoing": 17
     },
     {
-      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 75,
-      "done": 53,
-      "cancel": 0,
-      "overtime": 1,
-      "arrived": 10,
-      "ongoing": 22
+      "name": "叙围(普洱店)",
+      "push": 200,
+      "done": 181,
+      "cancel": 4,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 15
     }
   ],
-  "merchantCount": 1453,
-  "withDone": 1393,
-  "cardMeals": 2,
-  "scheduleNode": "17:30",
+  "merchantCount": 1521,
+  "withDone": 1457,
+  "cardMeals": 1,
+  "scheduleNode": "18:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261120173300.png",
+      "file": "top8_combined_20261120183259.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120173300.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120183259.png"
     }
   ]
 }
