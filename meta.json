@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-20 20:32:45",
-  "dydTime": "2026-11-20 20:32:45",
-  "cdydTime": "2026-11-20 20:30:37",
-  "buildTime": "2026-11-20 20:32:47",
+  "dataTime": "2026-11-20 21:03:02",
+  "dydTime": "2026-11-20 21:03:02",
+  "cdydTime": "2026-11-20 21:00:42",
+  "buildTime": "2026-11-20 21:03:03",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-20 今日",
-  "rows": 23598,
-  "fullCount": 23598,
-  "matchRate": 0.3605814052038308,
+  "rows": 24444,
+  "fullCount": 24444,
+  "matchRate": 0.3820160366552119,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23598,
-    "done": 22159,
-    "cancel": 511,
-    "overtime": 280,
-    "arrived": 55,
+    "push": 24444,
+    "done": 23052,
+    "cancel": 529,
+    "overtime": 300,
+    "arrived": 60,
     "create": 105,
-    "ongoing": 928
+    "ongoing": 863
   },
   "topOvertime": [
     {
+      "name": "快邻达超市(普洱店)",
+      "push": 355,
+      "done": 329,
+      "cancel": 9,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 17
+    },
+    {
+      "name": "丫恋锅鸭爪爪(鼎城国际店)",
+      "push": 43,
+      "done": 41,
+      "cancel": 2,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
       "name": "老白族凉粉(二十多年老字号)",
       "push": 172,
-      "done": 170,
-      "cancel": 1,
-      "overtime": 7,
-      "arrived": 0,
-      "ongoing": 1
-    },
-    {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 279,
-      "done": 243,
-      "cancel": 7,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 29
-    },
-    {
-      "name": "丫恋锅鸭爪爪(创基店)",
-      "push": 60,
-      "done": 56,
+      "done": 171,
       "cancel": 1,
       "overtime": 5,
       "arrived": 0,
-      "ongoing": 3
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "向",
-      "push": 268,
-      "done": 233,
+      "push": 283,
+      "done": 240,
       "cancel": 28,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 7
+      "overtime": 3,
+      "arrived": 1,
+      "ongoing": 15
     },
     {
       "name": "京东便利店",
-      "push": 46,
-      "done": 22,
-      "cancel": 22,
-      "overtime": 0,
+      "push": 47,
+      "done": 24,
+      "cancel": 23,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 0
     },
     {
       "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 169,
-      "done": 152,
+      "push": 175,
+      "done": 157,
       "cancel": 13,
-      "overtime": 2,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 4
+      "ongoing": 5
     }
   ],
   "topOngoing": [
     {
       "name": "库迪咖啡(雅侎之星店)",
       "push": 279,
-      "done": 243,
+      "done": 244,
       "cancel": 7,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 29
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 336,
-      "done": 304,
-      "cancel": 8,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 24
+      "ongoing": 28
     },
     {
       "name": "沃尔玛(林源路店)",
-      "push": 181,
-      "done": 155,
+      "push": 193,
+      "done": 169,
       "cancel": 2,
       "overtime": 0,
-      "arrived": 1,
-      "ongoing": 24
+      "arrived": 0,
+      "ongoing": 22
+    },
+    {
+      "name": "快邻达超市(普洱店)",
+      "push": 355,
+      "done": 329,
+      "cancel": 9,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 17
     }
   ],
-  "merchantCount": 1630,
-  "withDone": 1572,
+  "merchantCount": 1651,
+  "withDone": 1596,
   "cardMeals": 0,
-  "scheduleNode": "20:30",
+  "scheduleNode": "21:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261120203247.png",
+      "file": "top8_combined_20261120210303.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120203247.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120210303.png"
     }
   ]
 }
