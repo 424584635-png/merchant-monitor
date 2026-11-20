@@ -2,7 +2,7 @@
   "dataTime": "2026-11-20 18:32:58",
   "dydTime": "2026-11-20 18:32:58",
   "cdydTime": "2026-11-20 18:30:40",
-  "buildTime": "2026-11-20 18:32:59",
+  "buildTime": "2026-11-20 18:38:12",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-20 今日",
   "rows": 19390,
@@ -126,9 +126,9 @@
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261120183259.png",
+      "file": "top8_combined_20261120183812.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120183259.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261120183812.png"
     }
   ]
 }
