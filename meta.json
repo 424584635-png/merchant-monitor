@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-21 15:32:57",
-  "dydTime": "2026-11-21 15:32:57",
-  "cdydTime": "2026-11-21 15:30:26",
-  "buildTime": "2026-11-21 15:32:58",
+  "dataTime": "2026-11-21 17:33:05",
+  "dydTime": "2026-11-21 17:33:05",
+  "cdydTime": "2026-11-21 17:30:29",
+  "buildTime": "2026-11-21 17:33:07",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-21 今日",
-  "rows": 16973,
-  "fullCount": 16973,
-  "matchRate": 0.5361456430801862,
+  "rows": 21484,
+  "fullCount": 21484,
+  "matchRate": 0.426363805622789,
   "lines": [
     "大网",
     "全城送",
@@ -23,24 +23,15 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 16973,
-    "done": 15901,
-    "cancel": 335,
-    "overtime": 224,
-    "arrived": 48,
-    "create": 116,
-    "ongoing": 737
+    "push": 21484,
+    "done": 19117,
+    "cancel": 456,
+    "overtime": 193,
+    "arrived": 82,
+    "create": 106,
+    "ongoing": 1911
   },
   "topOvertime": [
-    {
-      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 44,
-      "done": 42,
-      "cancel": 0,
-      "overtime": 10,
-      "arrived": 0,
-      "ongoing": 2
-    },
     {
       "name": "福苑老街牛肉米干(人民路老店)",
       "push": 328,
@@ -51,84 +42,93 @@
       "ongoing": 0
     },
     {
-      "name": "君",
-      "push": 134,
-      "done": 111,
-      "cancel": 12,
-      "overtime": 5,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 119,
+      "done": 108,
+      "cancel": 1,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 11
+      "ongoing": 10
+    },
+    {
+      "name": "米米家(悦城时光里店)",
+      "push": 92,
+      "done": 76,
+      "cancel": 2,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 14
     }
   ],
   "topCancel": [
     {
       "name": "君",
-      "push": 134,
-      "done": 111,
-      "cancel": 12,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 11
+      "push": 193,
+      "done": 157,
+      "cancel": 23,
+      "overtime": 2,
+      "arrived": 2,
+      "ongoing": 13
     },
     {
       "name": "京东便利店",
-      "push": 26,
-      "done": 15,
-      "cancel": 11,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 0
-    },
-    {
-      "name": "未匹配(47640658)",
-      "push": 17,
-      "done": 11,
-      "cancel": 6,
+      "push": 36,
+      "done": 17,
+      "cancel": 15,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 4
+    },
+    {
+      "name": "春江小吃／快餐(利民巷店)",
+      "push": 77,
+      "done": 65,
+      "cancel": 9,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 3
     }
   ],
   "topOngoing": [
     {
-      "name": "浅草风(普洱广场店)",
-      "push": 176,
-      "done": 159,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 107,
+      "done": 78,
       "cancel": 2,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 15
+      "ongoing": 27
     },
     {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 188,
-      "done": 172,
-      "cancel": 3,
+      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
+      "push": 78,
+      "done": 53,
+      "cancel": 0,
+      "overtime": 4,
+      "arrived": 9,
+      "ongoing": 25
+    },
+    {
+      "name": "叙围(普洱店)",
+      "push": 175,
+      "done": 151,
+      "cancel": 2,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 13
-    },
-    {
-      "name": "老白族凉粉(二十多年老字号)",
-      "push": 118,
-      "done": 102,
-      "cancel": 3,
-      "overtime": 0,
-      "arrived": 1,
-      "ongoing": 13
+      "ongoing": 22
     }
   ],
-  "merchantCount": 1427,
-  "withDone": 1388,
-  "cardMeals": 0,
-  "scheduleNode": "15:30",
+  "merchantCount": 1535,
+  "withDone": 1484,
+  "cardMeals": 2,
+  "scheduleNode": "17:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261121153258.png",
+      "file": "top8_combined_20261121173307.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261121153258.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261121173307.png"
     }
   ]
 }
