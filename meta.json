@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-22 22:03:18",
-  "dydTime": "2026-11-22 22:03:18",
-  "cdydTime": "2026-11-22 22:00:46",
-  "buildTime": "2026-11-22 22:03:20",
+  "dataTime": "2026-11-22 23:33:19",
+  "dydTime": "2026-11-22 23:33:19",
+  "cdydTime": "2026-11-22 23:30:42",
+  "buildTime": "2026-11-22 23:33:22",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-22 今日",
-  "rows": 32038,
-  "fullCount": 32038,
-  "matchRate": 0.27395592733628815,
+  "rows": 33666,
+  "fullCount": 33666,
+  "matchRate": 0.2774312362621042,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 32038,
-    "done": 30708,
-    "cancel": 712,
-    "overtime": 261,
-    "arrived": 56,
-    "create": 62,
-    "ongoing": 618
+    "push": 33666,
+    "done": 32443,
+    "cancel": 762,
+    "overtime": 252,
+    "arrived": 51,
+    "create": 82,
+    "ongoing": 461
   },
   "topOvertime": [
     {
-      "name": "陶",
-      "push": 337,
-      "done": 294,
-      "cancel": 39,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 4
+      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
+      "push": 143,
+      "done": 138,
+      "cancel": 5,
+      "overtime": 7,
+      "arrived": 0,
+      "ongoing": 0
     },
     {
-      "name": "喜茶(普洱雅侎之星店)",
-      "push": 297,
-      "done": 285,
-      "cancel": 7,
+      "name": "陶",
+      "push": 348,
+      "done": 303,
+      "cancel": 40,
       "overtime": 5,
       "arrived": 0,
       "ongoing": 5
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 264,
-      "done": 263,
-      "cancel": 1,
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 256,
+      "done": 243,
+      "cancel": 3,
       "overtime": 5,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 10
     }
   ],
   "topCancel": [
     {
       "name": "陶",
-      "push": 337,
-      "done": 294,
-      "cancel": 39,
+      "push": 348,
+      "done": 303,
+      "cancel": 40,
       "overtime": 5,
-      "arrived": 1,
-      "ongoing": 4
+      "arrived": 0,
+      "ongoing": 5
     },
     {
       "name": "京东便利店",
-      "push": 38,
-      "done": 26,
-      "cancel": 12,
+      "push": 41,
+      "done": 27,
+      "cancel": 14,
       "overtime": 0,
       "arrived": 0,
       "ongoing": 0
     },
     {
       "name": "塔斯汀·中国汉堡(普洱市思茅锦辉第壹郡店)",
-      "push": 166,
-      "done": 151,
-      "cancel": 10,
-      "overtime": 1,
-      "arrived": 2,
-      "ongoing": 5
+      "push": 186,
+      "done": 168,
+      "cancel": 11,
+      "overtime": 0,
+      "arrived": 1,
+      "ongoing": 7
     }
   ],
   "topOngoing": [
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 277,
-      "done": 258,
-      "cancel": 5,
-      "overtime": 0,
+      "name": "惠邻百佳超市(普洱店)",
+      "push": 148,
+      "done": 130,
+      "cancel": 7,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 14
-    },
-    {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 233,
-      "done": 219,
-      "cancel": 3,
-      "overtime": 4,
-      "arrived": 1,
       "ongoing": 11
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 433,
-      "done": 415,
-      "cancel": 8,
-      "overtime": 4,
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 262,
+      "done": 246,
+      "cancel": 6,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 10
+    },
+    {
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 256,
+      "done": 243,
+      "cancel": 3,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 10
     }
   ],
-  "merchantCount": 1741,
-  "withDone": 1699,
-  "cardMeals": 0,
-  "scheduleNode": "22:00",
+  "merchantCount": 1760,
+  "withDone": 1724,
+  "cardMeals": 1,
+  "scheduleNode": "23:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261122220320.png",
+      "file": "top8_combined_20261122233322.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122220320.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122233322.png"
     }
   ]
 }
