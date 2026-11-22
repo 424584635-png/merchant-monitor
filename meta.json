@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-22 10:32:52",
-  "dydTime": "2026-11-22 10:32:52",
-  "cdydTime": "2026-11-22 10:30:15",
-  "buildTime": "2026-11-22 10:32:52",
+  "dataTime": "2026-11-22 11:33:00",
+  "dydTime": "2026-11-22 11:33:00",
+  "cdydTime": "2026-11-22 11:30:16",
+  "buildTime": "2026-11-22 11:33:01",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-22 今日",
-  "rows": 4515,
-  "fullCount": 4515,
-  "matchRate": 0.417718715393134,
+  "rows": 7724,
+  "fullCount": 7724,
+  "matchRate": 0.27887105126877265,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 4515,
-    "done": 3505,
-    "cancel": 127,
-    "overtime": 34,
-    "arrived": 43,
-    "create": 198,
-    "ongoing": 883
+    "push": 7724,
+    "done": 5429,
+    "cancel": 195,
+    "overtime": 22,
+    "arrived": 183,
+    "create": 146,
+    "ongoing": 2100
   },
   "topOvertime": [
     {
-      "name": "赵记湘遇螺老柳州螺蛳粉（赵记霸王螺蛳粉）",
-      "push": 6,
-      "done": 6,
-      "cancel": 0,
-      "overtime": 2,
-      "arrived": 0,
-      "ongoing": 0
-    },
-    {
-      "name": "彩色现蒸米干",
+      "name": "阿良烤鸡",
       "push": 4,
-      "done": 4,
+      "done": 3,
       "cancel": 0,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 1
     },
     {
-      "name": "开心邻里(普洱店)",
-      "push": 70,
-      "done": 59,
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 177,
+      "done": 149,
+      "cancel": 1,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 27
+    },
+    {
+      "name": "澜沧风味大明早点",
+      "push": 85,
+      "done": 77,
       "cancel": 0,
       "overtime": 1,
       "arrived": 0,
-      "ongoing": 11
+      "ongoing": 8
     }
   ],
   "topCancel": [
     {
       "name": "陶",
-      "push": 49,
-      "done": 36,
-      "cancel": 7,
+      "push": 71,
+      "done": 51,
+      "cancel": 8,
       "overtime": 1,
-      "arrived": 1,
-      "ongoing": 6
+      "arrived": 0,
+      "ongoing": 12
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 93,
-      "done": 81,
+      "push": 117,
+      "done": 103,
+      "cancel": 6,
+      "overtime": 0,
+      "arrived": 2,
+      "ongoing": 8
+    },
+    {
+      "name": "塔斯汀·中国汉堡(悦城时光里店)",
+      "push": 48,
+      "done": 31,
       "cancel": 6,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 6
-    },
-    {
-      "name": "云县鸡肉米线(（民族街店）)",
-      "push": 39,
-      "done": 31,
-      "cancel": 5,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 3
+      "ongoing": 11
     }
   ],
   "topOngoing": [
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 122,
-      "done": 99,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 46,
+      "done": 18,
       "cancel": 0,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 23
+      "ongoing": 28
     },
     {
-      "name": "沃尔玛(林源路店)",
+      "name": "叙围(普洱店)",
       "push": 43,
-      "done": 24,
-      "cancel": 1,
+      "done": 15,
+      "cancel": 0,
       "overtime": 0,
       "arrived": 2,
-      "ongoing": 18
+      "ongoing": 28
     },
     {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 53,
-      "done": 40,
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 177,
+      "done": 149,
       "cancel": 1,
-      "overtime": 0,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 27
     }
   ],
-  "merchantCount": 786,
-  "withDone": 565,
-  "cardMeals": 0,
-  "scheduleNode": "10:30",
+  "merchantCount": 1095,
+  "withDone": 911,
+  "cardMeals": 4,
+  "scheduleNode": "11:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261122103252.png",
+      "file": "top8_combined_20261122113301.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122103252.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122113301.png"
     }
   ]
 }
