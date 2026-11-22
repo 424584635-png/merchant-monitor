@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-22 20:33:07",
-  "dydTime": "2026-11-22 20:33:07",
-  "cdydTime": "2026-11-22 20:30:38",
-  "buildTime": "2026-11-22 20:33:09",
+  "dataTime": "2026-11-22 21:03:37",
+  "dydTime": "2026-11-22 21:03:37",
+  "cdydTime": "2026-11-22 21:00:56",
+  "buildTime": "2026-11-22 21:03:39",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-22 今日",
-  "rows": 29861,
-  "fullCount": 29861,
-  "matchRate": 0.3045443890023777,
+  "rows": 30610,
+  "fullCount": 30610,
+  "matchRate": 0.3071218556027442,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 29861,
-    "done": 28504,
-    "cancel": 654,
-    "overtime": 260,
+    "push": 30610,
+    "done": 29263,
+    "cancel": 670,
+    "overtime": 265,
     "arrived": 58,
     "create": 64,
-    "ongoing": 703
+    "ongoing": 677
   },
   "topOvertime": [
     {
+      "name": "陶",
+      "push": 318,
+      "done": 279,
+      "cancel": 37,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 2
+    },
+    {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 128,
-      "done": 117,
+      "push": 132,
+      "done": 123,
       "cancel": 3,
-      "overtime": 8,
+      "overtime": 6,
       "arrived": 1,
-      "ongoing": 8
+      "ongoing": 6
     },
     {
-      "name": "喜茶(普洱雅侎之星店)",
-      "push": 280,
-      "done": 270,
-      "cancel": 7,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 3
-    },
-    {
-      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
-      "push": 134,
-      "done": 130,
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 213,
+      "done": 199,
       "cancel": 3,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 1
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 11
     }
   ],
   "topCancel": [
     {
       "name": "陶",
-      "push": 312,
-      "done": 269,
-      "cancel": 34,
-      "overtime": 3,
-      "arrived": 1,
-      "ongoing": 9
+      "push": 318,
+      "done": 279,
+      "cancel": 37,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 2
     },
     {
       "name": "塔斯汀·中国汉堡(普洱市思茅锦辉第壹郡店)",
-      "push": 148,
-      "done": 134,
+      "push": 154,
+      "done": 139,
       "cancel": 10,
       "overtime": 0,
-      "arrived": 1,
-      "ongoing": 4
+      "arrived": 0,
+      "ongoing": 5
     },
     {
       "name": "京东便利店",
       "push": 36,
-      "done": 25,
+      "done": 26,
       "cancel": 10,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     }
   ],
   "topOngoing": [
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 394,
-      "done": 374,
-      "cancel": 8,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 12
-    },
-    {
       "name": "开心邻里(普洱店)",
-      "push": 303,
-      "done": 283,
+      "push": 319,
+      "done": 296,
       "cancel": 8,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 12
+      "overtime": 4,
+      "arrived": 2,
+      "ongoing": 15
     },
     {
       "name": "沃尔玛(林源路店)",
-      "push": 249,
-      "done": 233,
+      "push": 260,
+      "done": 240,
       "cancel": 5,
       "overtime": 0,
-      "arrived": 2,
-      "ongoing": 11
+      "arrived": 3,
+      "ongoing": 15
+    },
+    {
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 251,
+      "done": 234,
+      "cancel": 4,
+      "overtime": 0,
+      "arrived": 1,
+      "ongoing": 13
     }
   ],
-  "merchantCount": 1703,
-  "withDone": 1660,
+  "merchantCount": 1718,
+  "withDone": 1671,
   "cardMeals": 0,
-  "scheduleNode": "20:30",
+  "scheduleNode": "21:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261122203309.png",
+      "file": "top8_combined_20261122210339.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122203309.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261122210339.png"
     }
   ]
 }
