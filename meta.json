@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-23 11:32:46",
-  "dydTime": "2026-11-23 11:32:46",
-  "cdydTime": "2026-11-23 11:30:08",
-  "buildTime": "2026-11-23 11:32:46",
+  "dataTime": "2026-11-23 12:03:34",
+  "dydTime": "2026-11-23 12:03:34",
+  "cdydTime": "2026-11-23 12:00:16",
+  "buildTime": "2026-11-23 12:03:35",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-23 今日",
-  "rows": 6241,
-  "fullCount": 6241,
-  "matchRate": 0.23297548469796506,
+  "rows": 7714,
+  "fullCount": 7714,
+  "matchRate": 0.3562354161265232,
   "lines": [
     "大网",
     "全城送",
@@ -23,41 +23,41 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 6241,
-    "done": 4353,
-    "cancel": 138,
-    "overtime": 11,
-    "arrived": 133,
-    "create": 163,
-    "ongoing": 1750
+    "push": 7714,
+    "done": 5822,
+    "cancel": 155,
+    "overtime": 25,
+    "arrived": 129,
+    "create": 88,
+    "ongoing": 1737
   },
   "topOvertime": [
     {
       "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 43,
-      "done": 19,
+      "push": 50,
+      "done": 26,
       "cancel": 0,
       "overtime": 3,
       "arrived": 0,
       "ongoing": 24
     },
     {
-      "name": "梦雨竹餐吧",
-      "push": 25,
-      "done": 7,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 63,
+      "done": 42,
       "cancel": 0,
-      "overtime": 1,
-      "arrived": 2,
-      "ongoing": 18
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 21
     },
     {
-      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
-      "push": 20,
-      "done": 3,
+      "name": "食库里·轻食健康餐",
+      "push": 57,
+      "done": 38,
       "cancel": 0,
-      "overtime": 1,
-      "arrived": 4,
-      "ongoing": 17
+      "overtime": 2,
+      "arrived": 3,
+      "ongoing": 19
     }
   ],
   "topCancel": [
@@ -72,63 +72,63 @@
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 115,
-      "done": 106,
+      "push": 123,
+      "done": 110,
       "cancel": 4,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 5
+      "ongoing": 9
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 71,
-      "done": 57,
+      "push": 75,
+      "done": 67,
       "cancel": 4,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 10
+      "arrived": 2,
+      "ongoing": 4
     }
   ],
   "topOngoing": [
     {
       "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 126,
-      "done": 97,
-      "cancel": 0,
+      "push": 158,
+      "done": 123,
+      "cancel": 1,
       "overtime": 0,
-      "arrived": 5,
-      "ongoing": 29
+      "arrived": 9,
+      "ongoing": 34
     },
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 47,
-      "done": 21,
-      "cancel": 0,
+      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
+      "push": 66,
+      "done": 41,
+      "cancel": 1,
       "overtime": 0,
+      "arrived": 9,
+      "ongoing": 24
+    },
+    {
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 50,
+      "done": 26,
+      "cancel": 0,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 26
-    },
-    {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 45,
-      "done": 20,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 2,
-      "ongoing": 25
+      "ongoing": 24
     }
   ],
-  "merchantCount": 1021,
-  "withDone": 838,
+  "merchantCount": 1110,
+  "withDone": 999,
   "cardMeals": 2,
-  "scheduleNode": "11:30",
+  "scheduleNode": "12:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261123113246.png",
+      "file": "top8_combined_20261123120335.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123113246.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123120335.png"
     }
   ]
 }
