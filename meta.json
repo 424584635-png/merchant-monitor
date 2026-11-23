@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-23 20:32:52",
-  "dydTime": "2026-11-23 20:32:52",
-  "cdydTime": "2026-11-23 20:30:33",
-  "buildTime": "2026-11-23 20:32:54",
+  "dataTime": "2026-11-23 21:03:24",
+  "dydTime": "2026-11-23 21:03:24",
+  "cdydTime": "2026-11-23 21:00:40",
+  "buildTime": "2026-11-23 21:03:25",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-23 今日",
-  "rows": 22304,
-  "fullCount": 22304,
-  "matchRate": 0.3937410329985653,
+  "rows": 23035,
+  "fullCount": 23035,
+  "matchRate": 0.39700455828087694,
   "lines": [
     "大网",
     "全城送",
@@ -23,39 +23,39 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 22304,
-    "done": 21214,
-    "cancel": 454,
-    "overtime": 188,
-    "arrived": 48,
-    "create": 80,
-    "ongoing": 636
+    "push": 23035,
+    "done": 21937,
+    "cancel": 471,
+    "overtime": 203,
+    "arrived": 51,
+    "create": 75,
+    "ongoing": 627
   },
   "topOvertime": [
     {
+      "name": "米米家(悦城时光里店)",
+      "push": 162,
+      "done": 152,
+      "cancel": 1,
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 9
+    },
+    {
+      "name": "古茗(普洱悦城时光里店)",
+      "push": 102,
+      "done": 97,
+      "cancel": 0,
+      "overtime": 5,
+      "arrived": 0,
+      "ongoing": 5
+    },
+    {
       "name": "叙围(普洱店)",
       "push": 197,
-      "done": 194,
+      "done": 195,
       "cancel": 2,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 1
-    },
-    {
-      "name": "星马快送超市(普洱店)",
-      "push": 125,
-      "done": 114,
-      "cancel": 3,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 8
-    },
-    {
-      "name": "源味景东饭店快餐(普洱本地好店）",
-      "push": 92,
-      "done": 92,
-      "cancel": 0,
-      "overtime": 4,
+      "overtime": 3,
       "arrived": 0,
       "ongoing": 0
     }
@@ -63,72 +63,72 @@
   "topCancel": [
     {
       "name": "李",
-      "push": 243,
-      "done": 213,
-      "cancel": 24,
-      "overtime": 2,
+      "push": 261,
+      "done": 218,
+      "cancel": 25,
+      "overtime": 0,
       "arrived": 0,
-      "ongoing": 6
+      "ongoing": 18
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 258,
-      "done": 232,
+      "push": 276,
+      "done": 244,
       "cancel": 19,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 7
+      "overtime": 2,
+      "arrived": 2,
+      "ongoing": 13
     },
     {
       "name": "京东便利店",
-      "push": 44,
+      "push": 45,
       "done": 28,
       "cancel": 16,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 1
     }
   ],
   "topOngoing": [
     {
+      "name": "快邻达超市(普洱店)",
+      "push": 349,
+      "done": 318,
+      "cancel": 8,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 23
+    },
+    {
+      "name": "李",
+      "push": 261,
+      "done": 218,
+      "cancel": 25,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 18
+    },
+    {
       "name": "沃尔玛(林源路店)",
-      "push": 165,
-      "done": 139,
+      "push": 171,
+      "done": 146,
       "cancel": 7,
       "overtime": 0,
-      "arrived": 0,
-      "ongoing": 19
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 323,
-      "done": 301,
-      "cancel": 8,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 14
-    },
-    {
-      "name": "库迪咖啡(雅侎之星店)",
-      "push": 226,
-      "done": 208,
-      "cancel": 6,
-      "overtime": 1,
-      "arrived": 1,
-      "ongoing": 12
+      "arrived": 2,
+      "ongoing": 18
     }
   ],
-  "merchantCount": 1592,
-  "withDone": 1556,
+  "merchantCount": 1613,
+  "withDone": 1570,
   "cardMeals": 0,
-  "scheduleNode": "20:30",
+  "scheduleNode": "21:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261123203254.png",
+      "file": "top8_combined_20261123210325.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123203254.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123210325.png"
     }
   ]
 }
