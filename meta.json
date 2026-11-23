@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-23 17:32:58",
-  "dydTime": "2026-11-23 17:32:58",
-  "cdydTime": "2026-11-23 17:30:24",
-  "buildTime": "2026-11-23 17:32:59",
+  "dataTime": "2026-11-23 18:33:03",
+  "dydTime": "2026-11-23 18:33:03",
+  "cdydTime": "2026-11-23 18:30:29",
+  "buildTime": "2026-11-23 18:33:04",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-23 今日",
-  "rows": 16277,
-  "fullCount": 16277,
-  "matchRate": 0.531731891626221,
+  "rows": 18747,
+  "fullCount": 18747,
+  "matchRate": 0.48285058942764175,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 16277,
-    "done": 14687,
-    "cancel": 312,
-    "overtime": 151,
-    "arrived": 99,
-    "create": 103,
-    "ongoing": 1278
+    "push": 18747,
+    "done": 17262,
+    "cancel": 369,
+    "overtime": 168,
+    "arrived": 88,
+    "create": 90,
+    "ongoing": 1116
   },
   "topOvertime": [
     {
-      "name": "开心邻里(普洱店)",
-      "push": 178,
-      "done": 164,
-      "cancel": 7,
-      "overtime": 3,
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 198,
+      "done": 194,
+      "cancel": 3,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 7
+      "ongoing": 1
     },
     {
-      "name": "李",
-      "push": 178,
-      "done": 153,
-      "cancel": 17,
+      "name": "古茗(普洱悦城时光里店)",
+      "push": 89,
+      "done": 86,
+      "cancel": 0,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 8
+      "ongoing": 3
     },
     {
-      "name": "米米家(悦城时光里店)",
-      "push": 101,
-      "done": 88,
-      "cancel": 1,
+      "name": "SHWOO树哦咖啡(阳光悦城店)",
+      "push": 42,
+      "done": 42,
+      "cancel": 0,
       "overtime": 3,
-      "arrived": 2,
-      "ongoing": 12
+      "arrived": 0,
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "李",
-      "push": 178,
-      "done": 153,
-      "cancel": 17,
-      "overtime": 3,
-      "arrived": 0,
-      "ongoing": 8
+      "push": 212,
+      "done": 176,
+      "cancel": 20,
+      "overtime": 2,
+      "arrived": 1,
+      "ongoing": 16
     },
     {
       "name": "京东便利店",
-      "push": 33,
-      "done": 18,
+      "push": 35,
+      "done": 20,
       "cancel": 15,
-      "overtime": 0,
+      "overtime": 1,
       "arrived": 0,
       "ongoing": 0
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 230,
-      "done": 217,
-      "cancel": 7,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 6
+      "name": "开心邻里(普洱店)",
+      "push": 206,
+      "done": 186,
+      "cancel": 11,
+      "overtime": 2,
+      "arrived": 2,
+      "ongoing": 9
     }
   ],
   "topOngoing": [
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 102,
-      "done": 74,
-      "cancel": 0,
+      "name": "李",
+      "push": 212,
+      "done": 176,
+      "cancel": 20,
       "overtime": 2,
-      "arrived": 0,
-      "ongoing": 28
+      "arrived": 1,
+      "ongoing": 16
     },
     {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 114,
-      "done": 88,
-      "cancel": 1,
-      "overtime": 0,
-      "arrived": 10,
-      "ongoing": 25
+      "name": "老白族凉粉(二十多年老字号)",
+      "push": 190,
+      "done": 177,
+      "cancel": 0,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 13
     },
     {
       "name": "佤老表佤香鸡",
-      "push": 49,
-      "done": 24,
-      "cancel": 1,
+      "push": 65,
+      "done": 50,
+      "cancel": 2,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 24
+      "ongoing": 13
     }
   ],
-  "merchantCount": 1451,
-  "withDone": 1397,
-  "cardMeals": 1,
-  "scheduleNode": "17:30",
+  "merchantCount": 1513,
+  "withDone": 1466,
+  "cardMeals": 0,
+  "scheduleNode": "18:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261123173259.png",
+      "file": "top8_combined_20261123183304.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123173259.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261123183304.png"
     }
   ]
 }
