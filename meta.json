@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 23:34:01",
-  "dydTime": "2026-11-24 23:34:01",
-  "cdydTime": "2026-11-24 23:31:33",
-  "buildTime": "2026-11-24 23:34:03",
+  "dataTime": "2026-11-24 23:43:59",
+  "dydTime": "2026-11-24 23:43:59",
+  "cdydTime": "2026-11-24 23:41:33",
+  "buildTime": "2026-11-24 23:44:00",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 29181,
-  "fullCount": 29181,
-  "matchRate": 0.2954662280250848,
+  "rows": 29317,
+  "fullCount": 29317,
+  "matchRate": 0.29181021250469014,
   "lines": [
     "大网",
     "全城送",
@@ -23,86 +23,86 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 29181,
-    "done": 27713,
-    "cancel": 771,
-    "overtime": 447,
-    "arrived": 42,
-    "create": 79,
-    "ongoing": 697
+    "push": 29317,
+    "done": 27900,
+    "cancel": 783,
+    "overtime": 484,
+    "arrived": 36,
+    "create": 90,
+    "ongoing": 634
   },
   "topOvertime": [
     {
       "name": "开心邻里(普洱店)",
-      "push": 341,
-      "done": 314,
+      "push": 343,
+      "done": 318,
       "cancel": 15,
-      "overtime": 10,
-      "arrived": 1,
-      "ongoing": 12
-    },
-    {
-      "name": "蒋",
-      "push": 294,
-      "done": 251,
-      "cancel": 37,
-      "overtime": 9,
-      "arrived": 1,
-      "ongoing": 6
-    },
-    {
-      "name": "浅草风(普洱广场店)",
-      "push": 215,
-      "done": 214,
-      "cancel": 1,
-      "overtime": 9,
-      "arrived": 0,
-      "ongoing": 0
-    }
-  ],
-  "topCancel": [
-    {
-      "name": "京东便利店",
-      "push": 167,
-      "done": 105,
-      "cancel": 52,
-      "overtime": 1,
+      "overtime": 12,
       "arrived": 0,
       "ongoing": 10
     },
     {
       "name": "蒋",
-      "push": 294,
+      "push": 295,
       "done": 251,
-      "cancel": 37,
-      "overtime": 9,
+      "cancel": 38,
+      "overtime": 11,
+      "arrived": 1,
+      "ongoing": 6
+    },
+    {
+      "name": "快邻达超市(普洱店)",
+      "push": 466,
+      "done": 445,
+      "cancel": 13,
+      "overtime": 8,
+      "arrived": 0,
+      "ongoing": 8
+    }
+  ],
+  "topCancel": [
+    {
+      "name": "京东便利店",
+      "push": 172,
+      "done": 107,
+      "cancel": 53,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 12
+    },
+    {
+      "name": "蒋",
+      "push": 295,
+      "done": 251,
+      "cancel": 38,
+      "overtime": 11,
       "arrived": 1,
       "ongoing": 6
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 341,
-      "done": 314,
+      "push": 343,
+      "done": 318,
       "cancel": 15,
-      "overtime": 10,
-      "arrived": 1,
-      "ongoing": 12
+      "overtime": 12,
+      "arrived": 0,
+      "ongoing": 10
     }
   ],
   "topOngoing": [
     {
       "name": "只投螺碗柳州螺蛳粉",
-      "push": 244,
-      "done": 224,
+      "push": 247,
+      "done": 230,
       "cancel": 1,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 19
+      "overtime": 7,
+      "arrived": 2,
+      "ongoing": 16
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 327,
-      "done": 304,
+      "push": 331,
+      "done": 308,
       "cancel": 8,
       "overtime": 6,
       "arrived": 0,
@@ -110,15 +110,15 @@
     },
     {
       "name": "米米家(悦城时光里店)",
-      "push": 218,
-      "done": 202,
+      "push": 219,
+      "done": 205,
       "cancel": 1,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 15
+      "overtime": 7,
+      "arrived": 0,
+      "ongoing": 13
     }
   ],
-  "merchantCount": 1740,
+  "merchantCount": 1741,
   "withDone": 1694,
   "cardMeals": 0,
   "scheduleNode": "23:30",
@@ -126,9 +126,9 @@
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124233403.png",
+      "file": "top8_combined_20261124234400.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124233403.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124234400.png"
     }
   ]
 }
