@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 18:44:05",
-  "dydTime": "2026-11-24 18:44:05",
-  "cdydTime": "2026-11-24 18:41:26",
-  "buildTime": "2026-11-24 18:44:07",
+  "dataTime": "2026-11-24 18:54:15",
+  "dydTime": "2026-11-24 18:54:15",
+  "cdydTime": "2026-11-24 18:51:27",
+  "buildTime": "2026-11-24 18:54:16",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 21084,
-  "fullCount": 21084,
-  "matchRate": 0.43042117245304495,
+  "rows": 21578,
+  "fullCount": 21578,
+  "matchRate": 0.39948095282231905,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 21084,
-    "done": 18371,
-    "cancel": 473,
-    "overtime": 310,
-    "arrived": 124,
-    "create": 62,
-    "ongoing": 2240
+    "push": 21578,
+    "done": 18959,
+    "cancel": 482,
+    "overtime": 321,
+    "arrived": 119,
+    "create": 57,
+    "ongoing": 2137
   },
   "topOvertime": [
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 72,
-      "done": 47,
+      "push": 73,
+      "done": 57,
       "cancel": 3,
-      "overtime": 8,
-      "arrived": 5,
-      "ongoing": 22
+      "overtime": 11,
+      "arrived": 0,
+      "ongoing": 13
     },
     {
-      "name": "开心邻里(普洱店)",
-      "push": 198,
-      "done": 179,
-      "cancel": 9,
-      "overtime": 5,
+      "name": "蒋",
+      "push": 213,
+      "done": 170,
+      "cancel": 24,
+      "overtime": 6,
       "arrived": 1,
-      "ongoing": 10
+      "ongoing": 19
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 161,
-      "done": 140,
+      "name": "米米家(悦城时光里店)",
+      "push": 152,
+      "done": 121,
       "cancel": 0,
       "overtime": 5,
-      "arrived": 0,
-      "ongoing": 21
+      "arrived": 2,
+      "ongoing": 31
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
-      "push": 208,
-      "done": 168,
-      "cancel": 23,
-      "overtime": 4,
+      "push": 213,
+      "done": 170,
+      "cancel": 24,
+      "overtime": 6,
       "arrived": 1,
-      "ongoing": 17
+      "ongoing": 19
     },
     {
       "name": "京东便利店",
-      "push": 60,
-      "done": 19,
+      "push": 62,
+      "done": 24,
       "cancel": 23,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 18
+      "ongoing": 15
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 198,
-      "done": 179,
+      "push": 203,
+      "done": 181,
       "cancel": 9,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 10
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 13
     }
   ],
   "topOngoing": [
     {
-      "name": "米米家(悦城时光里店)",
-      "push": 148,
-      "done": 115,
-      "cancel": 0,
+      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
+      "push": 156,
+      "done": 122,
+      "cancel": 2,
       "overtime": 3,
-      "arrived": 4,
-      "ongoing": 33
+      "arrived": 3,
+      "ongoing": 32
     },
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 150,
-      "done": 119,
-      "cancel": 2,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 29
+      "name": "米米家(悦城时光里店)",
+      "push": 152,
+      "done": 121,
+      "cancel": 0,
+      "overtime": 5,
+      "arrived": 2,
+      "ongoing": 31
     },
     {
       "name": "只投螺碗柳州螺蛳粉",
-      "push": 148,
-      "done": 120,
+      "push": 152,
+      "done": 127,
       "cancel": 1,
-      "overtime": 2,
-      "arrived": 1,
-      "ongoing": 27
+      "overtime": 0,
+      "arrived": 2,
+      "ongoing": 24
     }
   ],
-  "merchantCount": 1570,
-  "withDone": 1507,
-  "cardMeals": 2,
+  "merchantCount": 1586,
+  "withDone": 1517,
+  "cardMeals": 1,
   "scheduleNode": "18:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124184407.png",
+      "file": "top8_combined_20261124185416.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124184407.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124185416.png"
     }
   ]
 }
