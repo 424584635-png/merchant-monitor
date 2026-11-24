@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 23:24:05",
-  "dydTime": "2026-11-24 23:24:05",
-  "cdydTime": "2026-11-24 23:21:34",
-  "buildTime": "2026-11-24 23:24:07",
+  "dataTime": "2026-11-24 23:34:01",
+  "dydTime": "2026-11-24 23:34:01",
+  "cdydTime": "2026-11-24 23:31:33",
+  "buildTime": "2026-11-24 23:34:03",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 29027,
-  "fullCount": 29027,
-  "matchRate": 0.3010645261308437,
+  "rows": 29181,
+  "fullCount": 29181,
+  "matchRate": 0.2954662280250848,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 29027,
-    "done": 27517,
-    "cancel": 769,
-    "overtime": 460,
-    "arrived": 49,
-    "create": 78,
-    "ongoing": 741
+    "push": 29181,
+    "done": 27713,
+    "cancel": 771,
+    "overtime": 447,
+    "arrived": 42,
+    "create": 79,
+    "ongoing": 697
   },
   "topOvertime": [
     {
-      "name": "蒋",
-      "push": 291,
-      "done": 250,
-      "cancel": 37,
-      "overtime": 11,
-      "arrived": 0,
-      "ongoing": 4
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 461,
-      "done": 435,
-      "cancel": 13,
-      "overtime": 7,
-      "arrived": 0,
-      "ongoing": 13
-    },
-    {
       "name": "开心邻里(普洱店)",
-      "push": 339,
-      "done": 305,
+      "push": 341,
+      "done": 314,
       "cancel": 15,
-      "overtime": 6,
+      "overtime": 10,
       "arrived": 1,
-      "ongoing": 19
+      "ongoing": 12
+    },
+    {
+      "name": "蒋",
+      "push": 294,
+      "done": 251,
+      "cancel": 37,
+      "overtime": 9,
+      "arrived": 1,
+      "ongoing": 6
+    },
+    {
+      "name": "浅草风(普洱广场店)",
+      "push": 215,
+      "done": 214,
+      "cancel": 1,
+      "overtime": 9,
+      "arrived": 0,
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 164,
-      "done": 103,
+      "push": 167,
+      "done": 105,
       "cancel": 52,
-      "overtime": 0,
-      "arrived": 2,
-      "ongoing": 9
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 10
     },
     {
       "name": "蒋",
-      "push": 291,
-      "done": 250,
+      "push": 294,
+      "done": 251,
       "cancel": 37,
-      "overtime": 11,
-      "arrived": 0,
-      "ongoing": 4
+      "overtime": 9,
+      "arrived": 1,
+      "ongoing": 6
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 339,
-      "done": 305,
+      "push": 341,
+      "done": 314,
       "cancel": 15,
-      "overtime": 6,
+      "overtime": 10,
       "arrived": 1,
-      "ongoing": 19
+      "ongoing": 12
     }
   ],
   "topOngoing": [
     {
-      "name": "开心邻里(普洱店)",
-      "push": 339,
-      "done": 305,
-      "cancel": 15,
-      "overtime": 6,
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 244,
+      "done": 224,
+      "cancel": 1,
+      "overtime": 4,
       "arrived": 1,
       "ongoing": 19
     },
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 238,
-      "done": 221,
-      "cancel": 1,
-      "overtime": 3,
+      "name": "优购哆超市(普洱店)",
+      "push": 327,
+      "done": 304,
+      "cancel": 8,
+      "overtime": 6,
       "arrived": 0,
-      "ongoing": 16
+      "ongoing": 15
     },
     {
       "name": "米米家(悦城时光里店)",
-      "push": 215,
-      "done": 198,
+      "push": 218,
+      "done": 202,
       "cancel": 1,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 1,
-      "ongoing": 16
+      "ongoing": 15
     }
   ],
-  "merchantCount": 1739,
+  "merchantCount": 1740,
   "withDone": 1694,
   "cardMeals": 0,
-  "scheduleNode": "22:00",
+  "scheduleNode": "23:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124232407.png",
+      "file": "top8_combined_20261124233403.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124232407.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124233403.png"
     }
   ]
 }
