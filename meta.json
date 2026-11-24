@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 18:04:10",
-  "dydTime": "2026-11-24 18:04:10",
-  "cdydTime": "2026-11-24 18:01:19",
-  "buildTime": "2026-11-24 18:04:12",
+  "dataTime": "2026-11-24 18:14:03",
+  "dydTime": "2026-11-24 18:14:03",
+  "cdydTime": "2026-11-24 18:11:21",
+  "buildTime": "2026-11-24 18:14:05",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 18857,
-  "fullCount": 18857,
-  "matchRate": 0.4791854483746089,
+  "rows": 19445,
+  "fullCount": 19445,
+  "matchRate": 0.45502699922859347,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 18857,
-    "done": 16231,
-    "cancel": 397,
-    "overtime": 259,
-    "arrived": 120,
-    "create": 56,
-    "ongoing": 2229
+    "push": 19445,
+    "done": 16823,
+    "cancel": 415,
+    "overtime": 277,
+    "arrived": 105,
+    "create": 65,
+    "ongoing": 2207
   },
   "topOvertime": [
     {
-      "name": "开心邻里(普洱店)",
-      "push": 185,
-      "done": 170,
-      "cancel": 5,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 10
-    },
-    {
-      "name": "米米家(悦城时光里店)",
-      "push": 117,
-      "done": 94,
-      "cancel": 0,
-      "overtime": 6,
+      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
+      "push": 70,
+      "done": 36,
+      "cancel": 2,
+      "overtime": 11,
       "arrived": 3,
-      "ongoing": 23
+      "ongoing": 32
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 143,
-      "done": 121,
+      "name": "蒋",
+      "push": 194,
+      "done": 156,
+      "cancel": 23,
+      "overtime": 9,
+      "arrived": 1,
+      "ongoing": 15
+    },
+    {
+      "name": "川拾酒火爆功夫川菜(奥莱小镇店)",
+      "push": 72,
+      "done": 59,
       "cancel": 0,
-      "overtime": 5,
+      "overtime": 6,
       "arrived": 0,
-      "ongoing": 22
+      "ongoing": 13
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
-      "push": 187,
-      "done": 151,
+      "push": 194,
+      "done": 156,
       "cancel": 23,
-      "overtime": 3,
+      "overtime": 9,
       "arrived": 1,
-      "ongoing": 13
+      "ongoing": 15
     },
     {
       "name": "京东便利店",
-      "push": 30,
-      "done": 12,
-      "cancel": 10,
+      "push": 35,
+      "done": 14,
+      "cancel": 15,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 8
+      "ongoing": 6
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 228,
-      "done": 205,
+      "push": 234,
+      "done": 209,
       "cancel": 7,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 16
+      "ongoing": 18
     }
   ],
   "topOngoing": [
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 66,
-      "done": 24,
+      "push": 70,
+      "done": 36,
       "cancel": 2,
-      "overtime": 1,
-      "arrived": 7,
-      "ongoing": 40
+      "overtime": 11,
+      "arrived": 3,
+      "ongoing": 32
     },
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 126,
-      "done": 101,
+      "name": "米米家(悦城时光里店)",
+      "push": 123,
+      "done": 98,
       "cancel": 0,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 0,
       "ongoing": 25
     },
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 124,
-      "done": 99,
-      "cancel": 2,
+      "name": "叙围(普洱店)",
+      "push": 149,
+      "done": 125,
+      "cancel": 0,
       "overtime": 1,
-      "arrived": 0,
-      "ongoing": 23
+      "arrived": 1,
+      "ongoing": 24
     }
   ],
-  "merchantCount": 1529,
-  "withDone": 1460,
-  "cardMeals": 2,
+  "merchantCount": 1539,
+  "withDone": 1474,
+  "cardMeals": 0,
   "scheduleNode": "17:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124180412.png",
+      "file": "top8_combined_20261124181405.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124180412.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124181405.png"
     }
   ]
 }
