@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 16:24:11",
-  "dydTime": "2026-11-24 16:24:11",
-  "cdydTime": "2026-11-24 16:21:18",
-  "buildTime": "2026-11-24 16:24:12",
+  "dataTime": "2026-11-24 16:34:10",
+  "dydTime": "2026-11-24 16:34:10",
+  "cdydTime": "2026-11-24 16:31:18",
+  "buildTime": "2026-11-24 16:34:11",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 14016,
-  "fullCount": 14016,
-  "matchRate": 0.5978167808219178,
+  "rows": 14318,
+  "fullCount": 14318,
+  "matchRate": 0.6012012850956837,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 14016,
-    "done": 12992,
-    "cancel": 278,
-    "overtime": 204,
-    "arrived": 42,
-    "create": 142,
-    "ongoing": 746
+    "push": 14318,
+    "done": 13194,
+    "cancel": 286,
+    "overtime": 200,
+    "arrived": 53,
+    "create": 146,
+    "ongoing": 838
   },
   "topOvertime": [
     {
-      "name": "优购哆超市(普洱店)",
-      "push": 190,
-      "done": 182,
-      "cancel": 5,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 3
-    },
-    {
       "name": "蒋",
-      "push": 151,
-      "done": 121,
-      "cancel": 20,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 10
+      "push": 154,
+      "done": 125,
+      "cancel": 21,
+      "overtime": 6,
+      "arrived": 2,
+      "ongoing": 8
     },
     {
       "name": "库迪咖啡(雅侎之星店)",
       "push": 160,
-      "done": 147,
+      "done": 149,
       "cancel": 6,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 7
+      "ongoing": 5
+    },
+    {
+      "name": "全好佳超市(普洱店)",
+      "push": 131,
+      "done": 122,
+      "cancel": 3,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 6
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
-      "push": 151,
-      "done": 121,
-      "cancel": 20,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 10
+      "push": 154,
+      "done": 125,
+      "cancel": 21,
+      "overtime": 6,
+      "arrived": 2,
+      "ongoing": 8
     },
     {
       "name": "库迪咖啡(雅侎之星店)",
       "push": 160,
-      "done": 147,
+      "done": 149,
       "cancel": 6,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 7
+      "ongoing": 5
     },
     {
       "name": "京东便利店",
-      "push": 14,
+      "push": 15,
       "done": 8,
       "cancel": 6,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 1
     }
   ],
   "topOngoing": [
     {
       "name": "快邻达超市(普洱店)",
-      "push": 252,
-      "done": 235,
+      "push": 257,
+      "done": 238,
       "cancel": 5,
       "overtime": 2,
-      "arrived": 0,
-      "ongoing": 12
+      "arrived": 1,
+      "ongoing": 14
     },
     {
-      "name": "全好佳超市(普洱店)",
-      "push": 130,
-      "done": 116,
-      "cancel": 3,
-      "overtime": 4,
+      "name": "沃尔玛(林源路店)",
+      "push": 98,
+      "done": 82,
+      "cancel": 2,
+      "overtime": 0,
+      "arrived": 4,
+      "ongoing": 14
+    },
+    {
+      "name": "佤老表佤香鸡",
+      "push": 126,
+      "done": 115,
+      "cancel": 0,
+      "overtime": 0,
       "arrived": 0,
       "ongoing": 11
-    },
-    {
-      "name": "蒋",
-      "push": 151,
-      "done": 121,
-      "cancel": 20,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 10
     }
   ],
-  "merchantCount": 1412,
-  "withDone": 1366,
+  "merchantCount": 1421,
+  "withDone": 1369,
   "cardMeals": 0,
   "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124162412.png",
+      "file": "top8_combined_20261124163411.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124162412.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124163411.png"
     }
   ]
 }
