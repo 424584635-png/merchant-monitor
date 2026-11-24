@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 19:34:06",
-  "dydTime": "2026-11-24 19:34:06",
-  "cdydTime": "2026-11-24 19:31:28",
-  "buildTime": "2026-11-24 19:34:07",
+  "dataTime": "2026-11-24 19:44:14",
+  "dydTime": "2026-11-24 19:44:14",
+  "cdydTime": "2026-11-24 19:41:28",
+  "buildTime": "2026-11-24 19:44:15",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 23320,
-  "fullCount": 23320,
-  "matchRate": 0.3967838765008576,
+  "rows": 23665,
+  "fullCount": 23665,
+  "matchRate": 0.38157616733572786,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23320,
-    "done": 21145,
-    "cancel": 545,
-    "overtime": 387,
-    "arrived": 112,
-    "create": 71,
-    "ongoing": 1630
+    "push": 23665,
+    "done": 21628,
+    "cancel": 554,
+    "overtime": 406,
+    "arrived": 88,
+    "create": 59,
+    "ongoing": 1483
   },
   "topOvertime": [
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 77,
-      "done": 70,
+      "push": 80,
+      "done": 71,
       "cancel": 3,
-      "overtime": 14,
-      "arrived": 1,
-      "ongoing": 4
+      "overtime": 15,
+      "arrived": 0,
+      "ongoing": 6
     },
     {
       "name": "蒋",
-      "push": 234,
-      "done": 189,
+      "push": 239,
+      "done": 197,
       "cancel": 28,
-      "overtime": 6,
+      "overtime": 8,
       "arrived": 0,
-      "ongoing": 17
+      "ongoing": 14
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 190,
-      "done": 164,
-      "cancel": 0,
-      "overtime": 6,
-      "arrived": 4,
-      "ongoing": 26
+      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
+      "push": 164,
+      "done": 151,
+      "cancel": 2,
+      "overtime": 8,
+      "arrived": 3,
+      "ongoing": 11
     }
   ],
   "topCancel": [
     {
       "name": "京东便利店",
-      "push": 82,
-      "done": 41,
-      "cancel": 29,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 12
+      "push": 86,
+      "done": 47,
+      "cancel": 30,
+      "overtime": 4,
+      "arrived": 1,
+      "ongoing": 9
     },
     {
       "name": "蒋",
-      "push": 234,
-      "done": 189,
+      "push": 239,
+      "done": 197,
       "cancel": 28,
-      "overtime": 6,
+      "overtime": 8,
       "arrived": 0,
-      "ongoing": 17
+      "ongoing": 14
     },
     {
       "name": "开心邻里(普洱店)",
-      "push": 222,
-      "done": 194,
+      "push": 223,
+      "done": 200,
       "cancel": 10,
       "overtime": 3,
-      "arrived": 1,
-      "ongoing": 18
+      "arrived": 0,
+      "ongoing": 13
     }
   ],
   "topOngoing": [
     {
-      "name": "叙围(普洱店)",
-      "push": 190,
-      "done": 164,
-      "cancel": 0,
-      "overtime": 6,
-      "arrived": 4,
-      "ongoing": 26
-    },
-    {
       "name": "只投螺碗柳州螺蛳粉",
-      "push": 177,
+      "push": 180,
       "done": 154,
       "cancel": 1,
-      "overtime": 3,
-      "arrived": 1,
-      "ongoing": 22
+      "overtime": 1,
+      "arrived": 2,
+      "ongoing": 25
     },
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 158,
-      "done": 136,
-      "cancel": 2,
-      "overtime": 0,
-      "arrived": 5,
-      "ongoing": 20
+      "name": "叙围(普洱店)",
+      "push": 191,
+      "done": 168,
+      "cancel": 0,
+      "overtime": 6,
+      "arrived": 1,
+      "ongoing": 23
+    },
+    {
+      "name": "快邻达超市(普洱店)",
+      "push": 345,
+      "done": 322,
+      "cancel": 6,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 17
     }
   ],
-  "merchantCount": 1630,
-  "withDone": 1554,
+  "merchantCount": 1635,
+  "withDone": 1566,
   "cardMeals": 3,
   "scheduleNode": "18:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124193407.png",
+      "file": "top8_combined_20261124194415.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124193407.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124194415.png"
     }
   ]
 }
