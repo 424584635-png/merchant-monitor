@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 16:07:45",
-  "dydTime": "2026-11-24 16:07:45",
-  "cdydTime": "2026-11-24 16:04:58",
-  "buildTime": "2026-11-24 16:07:46",
+  "dataTime": "2026-11-24 16:16:26",
+  "dydTime": "2026-11-24 16:16:26",
+  "cdydTime": "2026-11-24 16:13:32",
+  "buildTime": "2026-11-24 16:16:32",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 13565,
-  "fullCount": 13565,
-  "matchRate": 0.6051603391079985,
+  "rows": 13775,
+  "fullCount": 13775,
+  "matchRate": 0.6080580762250454,
   "lines": [
     "大网",
     "全城送",
@@ -23,61 +23,61 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 13565,
-    "done": 12655,
-    "cancel": 268,
-    "overtime": 181,
-    "arrived": 38,
-    "create": 119,
-    "ongoing": 642
+    "push": 13775,
+    "done": 12834,
+    "cancel": 272,
+    "overtime": 186,
+    "arrived": 45,
+    "create": 128,
+    "ongoing": 669
   },
   "topOvertime": [
     {
       "name": "全好佳超市(普洱店)",
-      "push": 122,
-      "done": 109,
+      "push": 126,
+      "done": 113,
       "cancel": 3,
-      "overtime": 4,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 10
     },
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 72,
-      "done": 71,
-      "cancel": 0,
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 159,
+      "done": 147,
+      "cancel": 6,
       "overtime": 4,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 6
     },
     {
-      "name": "霞光小筑（宁洱红米干）",
-      "push": 34,
-      "done": 32,
-      "cancel": 1,
+      "name": "蒋",
+      "push": 147,
+      "done": 119,
+      "cancel": 20,
       "overtime": 4,
-      "arrived": 0,
-      "ongoing": 1
+      "arrived": 1,
+      "ongoing": 8
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
       "push": 147,
-      "done": 116,
+      "done": 119,
       "cancel": 20,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 1,
-      "ongoing": 11
+      "ongoing": 8
     },
     {
       "name": "库迪咖啡(雅侎之星店)",
-      "push": 157,
-      "done": 143,
+      "push": 159,
+      "done": 147,
       "cancel": 6,
-      "overtime": 3,
-      "arrived": 1,
-      "ongoing": 8
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 6
     },
     {
       "name": "京东便利店",
@@ -91,44 +91,44 @@
   ],
   "topOngoing": [
     {
-      "name": "蒋",
-      "push": 147,
-      "done": 116,
-      "cancel": 20,
-      "overtime": 3,
-      "arrived": 1,
-      "ongoing": 11
-    },
-    {
       "name": "全好佳超市(普洱店)",
-      "push": 122,
-      "done": 109,
+      "push": 126,
+      "done": 113,
       "cancel": 3,
-      "overtime": 4,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 10
     },
     {
       "name": "老白族凉粉(二十多年老字号)",
-      "push": 110,
-      "done": 99,
+      "push": 111,
+      "done": 101,
       "cancel": 1,
-      "overtime": 3,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 10
+      "ongoing": 9
+    },
+    {
+      "name": "叙围(普洱店)",
+      "push": 96,
+      "done": 87,
+      "cancel": 0,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 9
     }
   ],
-  "merchantCount": 1398,
-  "withDone": 1359,
+  "merchantCount": 1403,
+  "withDone": 1360,
   "cardMeals": 0,
   "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124160746.png",
+      "file": "top8_combined_20261124161632.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124160746.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124161632.png"
     }
   ]
 }
