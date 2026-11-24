@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 17:03:41",
-  "dydTime": "2026-11-24 17:03:41",
-  "cdydTime": "2026-11-24 17:01:17",
-  "buildTime": "2026-11-24 17:03:42",
+  "dataTime": "2026-11-24 17:14:04",
+  "dydTime": "2026-11-24 17:14:04",
+  "cdydTime": "2026-11-24 17:11:18",
+  "buildTime": "2026-11-24 17:14:05",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 15457,
-  "fullCount": 15457,
-  "matchRate": 0.5396260593905674,
+  "rows": 16107,
+  "fullCount": 16107,
+  "matchRate": 0.5267275097783573,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 15457,
-    "done": 13970,
-    "cancel": 316,
-    "overtime": 187,
-    "arrived": 102,
-    "create": 148,
-    "ongoing": 1171
+    "push": 16107,
+    "done": 14266,
+    "cancel": 326,
+    "overtime": 175,
+    "arrived": 88,
+    "create": 139,
+    "ongoing": 1515
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 81,
-      "done": 74,
-      "cancel": 0,
-      "overtime": 5,
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 163,
+      "done": 153,
+      "cancel": 6,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 7
+      "ongoing": 4
+    },
+    {
+      "name": "浅草风(普洱广场店)",
+      "push": 120,
+      "done": 114,
+      "cancel": 1,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 5
     },
     {
       "name": "元丰小吃",
-      "push": 44,
-      "done": 43,
+      "push": 46,
+      "done": 44,
       "cancel": 0,
-      "overtime": 5,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 1
-    },
-    {
-      "name": "特色卤肉饭(普洱学院西区食堂二楼店)",
-      "push": 17,
-      "done": 14,
-      "cancel": 0,
-      "overtime": 5,
-      "arrived": 0,
-      "ongoing": 3
+      "ongoing": 2
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
-      "push": 167,
-      "done": 135,
+      "push": 169,
+      "done": 136,
       "cancel": 22,
-      "overtime": 4,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 10
+      "ongoing": 11
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 202,
-      "done": 190,
+      "push": 206,
+      "done": 192,
       "cancel": 6,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 6
+      "ongoing": 8
     },
     {
       "name": "库迪咖啡(雅侎之星店)",
-      "push": 162,
-      "done": 152,
+      "push": 163,
+      "done": 153,
       "cancel": 6,
-      "overtime": 3,
+      "overtime": 4,
       "arrived": 0,
       "ongoing": 4
     }
   ],
   "topOngoing": [
     {
+      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
+      "push": 42,
+      "done": 11,
+      "cancel": 1,
+      "overtime": 1,
+      "arrived": 10,
+      "ongoing": 30
+    },
+    {
       "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 81,
+      "push": 88,
       "done": 62,
       "cancel": 0,
       "overtime": 2,
-      "arrived": 5,
-      "ongoing": 19
+      "arrived": 3,
+      "ongoing": 26
     },
     {
       "name": "沃尔玛(林源路店)",
-      "push": 110,
-      "done": 90,
+      "push": 114,
+      "done": 93,
       "cancel": 2,
       "overtime": 0,
       "arrived": 1,
-      "ongoing": 18
-    },
-    {
-      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 28,
-      "done": 9,
-      "cancel": 1,
-      "overtime": 0,
-      "arrived": 15,
-      "ongoing": 18
+      "ongoing": 19
     }
   ],
-  "merchantCount": 1464,
-  "withDone": 1395,
-  "cardMeals": 2,
+  "merchantCount": 1477,
+  "withDone": 1406,
+  "cardMeals": 1,
   "scheduleNode": "15:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124170342.png",
+      "file": "top8_combined_20261124171405.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124170342.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124171405.png"
     }
   ]
 }
