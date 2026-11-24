@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-24 17:54:10",
-  "dydTime": "2026-11-24 17:54:10",
-  "cdydTime": "2026-11-24 17:51:18",
-  "buildTime": "2026-11-24 17:54:12",
+  "dataTime": "2026-11-24 18:04:10",
+  "dydTime": "2026-11-24 18:04:10",
+  "cdydTime": "2026-11-24 18:01:19",
+  "buildTime": "2026-11-24 18:04:12",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-24 今日",
-  "rows": 18289,
-  "fullCount": 18289,
-  "matchRate": 0.4808354748756083,
+  "rows": 18857,
+  "fullCount": 18857,
+  "matchRate": 0.4791854483746089,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 18289,
-    "done": 15694,
-    "cancel": 382,
-    "overtime": 227,
-    "arrived": 116,
-    "create": 65,
-    "ongoing": 2213
+    "push": 18857,
+    "done": 16231,
+    "cancel": 397,
+    "overtime": 259,
+    "arrived": 120,
+    "create": 56,
+    "ongoing": 2229
   },
   "topOvertime": [
     {
-      "name": "蒋",
-      "push": 186,
-      "done": 149,
-      "cancel": 23,
+      "name": "开心邻里(普洱店)",
+      "push": 185,
+      "done": 170,
+      "cancel": 5,
       "overtime": 6,
       "arrived": 0,
-      "ongoing": 14
+      "ongoing": 10
     },
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 91,
-      "done": 84,
+      "name": "米米家(悦城时光里店)",
+      "push": 117,
+      "done": 94,
       "cancel": 0,
       "overtime": 6,
-      "arrived": 0,
-      "ongoing": 7
+      "arrived": 3,
+      "ongoing": 23
     },
     {
-      "name": "开心邻里(普洱店)",
-      "push": 181,
-      "done": 165,
-      "cancel": 4,
+      "name": "叙围(普洱店)",
+      "push": 143,
+      "done": 121,
+      "cancel": 0,
       "overtime": 5,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 22
     }
   ],
   "topCancel": [
     {
       "name": "蒋",
-      "push": 186,
-      "done": 149,
+      "push": 187,
+      "done": 151,
       "cancel": 23,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 14
+      "overtime": 3,
+      "arrived": 1,
+      "ongoing": 13
     },
     {
       "name": "京东便利店",
-      "push": 26,
-      "done": 10,
+      "push": 30,
+      "done": 12,
       "cancel": 10,
       "overtime": 0,
-      "arrived": 2,
-      "ongoing": 6
+      "arrived": 0,
+      "ongoing": 8
     },
     {
       "name": "优购哆超市(普洱店)",
-      "push": 223,
-      "done": 202,
+      "push": 228,
+      "done": 205,
       "cancel": 7,
       "overtime": 3,
       "arrived": 0,
-      "ongoing": 14
+      "ongoing": 16
     }
   ],
   "topOngoing": [
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 59,
+      "push": 66,
       "done": 24,
       "cancel": 2,
-      "overtime": 2,
-      "arrived": 8,
-      "ongoing": 33
+      "overtime": 1,
+      "arrived": 7,
+      "ongoing": 40
+    },
+    {
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 126,
+      "done": 101,
+      "cancel": 0,
+      "overtime": 3,
+      "arrived": 0,
+      "ongoing": 25
     },
     {
       "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 120,
-      "done": 94,
+      "push": 124,
+      "done": 99,
       "cancel": 2,
-      "overtime": 2,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 24
-    },
-    {
-      "name": "米米家(悦城时光里店)",
-      "push": 113,
-      "done": 89,
-      "cancel": 0,
-      "overtime": 3,
-      "arrived": 3,
-      "ongoing": 24
+      "ongoing": 23
     }
   ],
-  "merchantCount": 1519,
-  "withDone": 1448,
+  "merchantCount": 1529,
+  "withDone": 1460,
   "cardMeals": 2,
   "scheduleNode": "17:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261124175412.png",
+      "file": "top8_combined_20261124180412.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124175412.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261124180412.png"
     }
   ]
 }
