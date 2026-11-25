@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-25 20:33:19",
-  "dydTime": "2026-11-25 20:33:19",
-  "cdydTime": "2026-11-25 20:30:37",
-  "buildTime": "2026-11-25 20:33:21",
+  "dataTime": "2026-11-25 21:03:19",
+  "dydTime": "2026-11-25 21:03:19",
+  "cdydTime": "2026-11-25 21:00:41",
+  "buildTime": "2026-11-25 21:03:21",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-25 今日",
-  "rows": 22767,
-  "fullCount": 22767,
-  "matchRate": 0.40620195897571043,
+  "rows": 23424,
+  "fullCount": 23424,
+  "matchRate": 0.3870816256830601,
   "lines": [
     "大网",
     "全城送",
@@ -23,13 +23,13 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 22767,
-    "done": 21564,
-    "cancel": 491,
-    "overtime": 307,
-    "arrived": 57,
-    "create": 83,
-    "ongoing": 712
+    "push": 23424,
+    "done": 22304,
+    "cancel": 510,
+    "overtime": 289,
+    "arrived": 44,
+    "create": 75,
+    "ongoing": 610
   },
   "topOvertime": [
     {
@@ -37,98 +37,98 @@
       "push": 101,
       "done": 90,
       "cancel": 9,
-      "overtime": 13,
+      "overtime": 7,
       "arrived": 0,
       "ongoing": 2
     },
     {
-      "name": "高",
-      "push": 289,
-      "done": 235,
-      "cancel": 35,
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 172,
+      "done": 166,
+      "cancel": 1,
       "overtime": 6,
-      "arrived": 3,
-      "ongoing": 19
+      "arrived": 0,
+      "ongoing": 5
     },
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 178,
-      "done": 161,
-      "cancel": 3,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 125,
+      "done": 124,
+      "cancel": 1,
       "overtime": 6,
-      "arrived": 3,
-      "ongoing": 14
+      "arrived": 0,
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "高",
-      "push": 289,
-      "done": 235,
+      "push": 302,
+      "done": 255,
       "cancel": 35,
-      "overtime": 6,
-      "arrived": 3,
-      "ongoing": 19
+      "overtime": 5,
+      "arrived": 0,
+      "ongoing": 12
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 171,
-      "done": 153,
+      "push": 174,
+      "done": 157,
       "cancel": 13,
-      "overtime": 3,
-      "arrived": 2,
-      "ongoing": 5
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 4
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 352,
-      "done": 332,
+      "push": 371,
+      "done": 346,
       "cancel": 10,
       "overtime": 2,
-      "arrived": 1,
-      "ongoing": 10
+      "arrived": 0,
+      "ongoing": 15
     }
   ],
   "topOngoing": [
     {
-      "name": "高",
-      "push": 289,
-      "done": 235,
-      "cancel": 35,
-      "overtime": 6,
-      "arrived": 3,
-      "ongoing": 19
-    },
-    {
       "name": "库迪咖啡(雅侎之星店)",
-      "push": 282,
-      "done": 260,
+      "push": 286,
+      "done": 263,
       "cancel": 6,
-      "overtime": 1,
+      "overtime": 5,
       "arrived": 0,
-      "ongoing": 16
+      "ongoing": 17
     },
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 139,
-      "done": 123,
-      "cancel": 1,
-      "overtime": 0,
-      "arrived": 1,
+      "name": "快邻达超市(普洱店)",
+      "push": 371,
+      "done": 346,
+      "cancel": 10,
+      "overtime": 2,
+      "arrived": 0,
       "ongoing": 15
+    },
+    {
+      "name": "高",
+      "push": 302,
+      "done": 255,
+      "cancel": 35,
+      "overtime": 5,
+      "arrived": 0,
+      "ongoing": 12
     }
   ],
-  "merchantCount": 1611,
-  "withDone": 1560,
+  "merchantCount": 1631,
+  "withDone": 1579,
   "cardMeals": 0,
-  "scheduleNode": "20:30",
+  "scheduleNode": "21:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261125203321.png",
+      "file": "top8_combined_20261125210321.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125203321.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125210321.png"
     }
   ]
 }
