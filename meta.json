@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-25 21:03:19",
-  "dydTime": "2026-11-25 21:03:19",
-  "cdydTime": "2026-11-25 21:00:41",
-  "buildTime": "2026-11-25 21:03:21",
+  "dataTime": "2026-11-25 22:03:21",
+  "dydTime": "2026-11-25 22:03:21",
+  "cdydTime": "2026-11-25 22:00:44",
+  "buildTime": "2026-11-25 22:03:27",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-25 今日",
-  "rows": 23424,
-  "fullCount": 23424,
-  "matchRate": 0.3870816256830601,
+  "rows": 24667,
+  "fullCount": 24667,
+  "matchRate": 0.3713057931649572,
   "lines": [
     "大网",
     "全城送",
@@ -23,39 +23,39 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 23424,
-    "done": 22304,
-    "cancel": 510,
-    "overtime": 289,
-    "arrived": 44,
-    "create": 75,
-    "ongoing": 610
+    "push": 24667,
+    "done": 23540,
+    "cancel": 550,
+    "overtime": 285,
+    "arrived": 31,
+    "create": 58,
+    "ongoing": 577
   },
   "topOvertime": [
     {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 101,
-      "done": 90,
+      "push": 105,
+      "done": 95,
       "cancel": 9,
-      "overtime": 7,
+      "overtime": 9,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 1
     },
     {
-      "name": "只投螺碗柳州螺蛳粉",
-      "push": 172,
-      "done": 166,
+      "name": "米米家(悦城时光里店)",
+      "push": 177,
+      "done": 168,
       "cancel": 1,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 5
+      "overtime": 5,
+      "arrived": 1,
+      "ongoing": 8
     },
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 125,
-      "done": 124,
-      "cancel": 1,
-      "overtime": 6,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 96,
+      "done": 94,
+      "cancel": 2,
+      "overtime": 5,
       "arrived": 0,
       "ongoing": 0
     }
@@ -63,72 +63,72 @@
   "topCancel": [
     {
       "name": "高",
-      "push": 302,
-      "done": 255,
+      "push": 311,
+      "done": 269,
       "cancel": 35,
-      "overtime": 5,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 7
     },
     {
       "name": "全好佳超市(普洱店)",
-      "push": 174,
-      "done": 157,
+      "push": 185,
+      "done": 166,
       "cancel": 13,
-      "overtime": 1,
-      "arrived": 0,
-      "ongoing": 4
-    },
-    {
-      "name": "快邻达超市(普洱店)",
-      "push": 371,
-      "done": 346,
-      "cancel": 10,
       "overtime": 2,
       "arrived": 0,
-      "ongoing": 15
+      "ongoing": 6
+    },
+    {
+      "name": "京东便利店",
+      "push": 47,
+      "done": 34,
+      "cancel": 12,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 1
     }
   ],
   "topOngoing": [
     {
       "name": "库迪咖啡(雅侎之星店)",
-      "push": 286,
-      "done": 263,
+      "push": 298,
+      "done": 272,
       "cancel": 6,
-      "overtime": 5,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 17
+      "ongoing": 20
     },
     {
       "name": "快邻达超市(普洱店)",
-      "push": 371,
-      "done": 346,
-      "cancel": 10,
-      "overtime": 2,
+      "push": 400,
+      "done": 376,
+      "cancel": 11,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 15
+      "ongoing": 13
     },
     {
-      "name": "高",
-      "push": 302,
-      "done": 255,
-      "cancel": 35,
-      "overtime": 5,
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 184,
+      "done": 174,
+      "cancel": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 12
+      "ongoing": 9
     }
   ],
-  "merchantCount": 1631,
-  "withDone": 1579,
-  "cardMeals": 0,
-  "scheduleNode": "21:00",
+  "merchantCount": 1655,
+  "withDone": 1613,
+  "cardMeals": 1,
+  "scheduleNode": "22:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261125210321.png",
+      "file": "top8_combined_20261125220327.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125210321.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125220327.png"
     }
   ]
 }
