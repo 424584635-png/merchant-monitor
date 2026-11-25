@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-25 00:02:20",
-  "dydTime": "2026-11-25 00:02:20",
-  "cdydTime": "2026-11-25 00:01:00",
-  "buildTime": "2026-11-25 00:02:20",
+  "dataTime": "2026-11-25 10:32:43",
+  "dydTime": "2026-11-25 10:32:43",
+  "cdydTime": "2026-11-25 10:30:11",
+  "buildTime": "2026-11-25 10:32:44",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-25 今日",
-  "rows": 9,
-  "fullCount": 9,
-  "matchRate": 0.5555555555555556,
+  "rows": 3652,
+  "fullCount": 3652,
+  "matchRate": 0.45646221248630886,
   "lines": [
     "大网",
     "全城送",
@@ -19,59 +19,116 @@
     "经济保障"
   ],
   "options": [
-    "普通模式"
+    "普通模式",
+    "出餐后调度"
   ],
   "global": {
-    "push": 9,
-    "done": 0,
-    "cancel": 0,
-    "overtime": 0,
-    "arrived": 0,
-    "create": 1,
-    "ongoing": 9
+    "push": 3652,
+    "done": 2924,
+    "cancel": 108,
+    "overtime": 47,
+    "arrived": 40,
+    "create": 187,
+    "ongoing": 620
   },
-  "topOvertime": [],
-  "topCancel": [],
-  "topOngoing": [
+  "topOvertime": [
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 2,
-      "done": 0,
-      "cancel": 0,
-      "overtime": 0,
+      "name": "快邻达超市(普洱店)",
+      "push": 104,
+      "done": 95,
+      "cancel": 2,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 7
     },
     {
-      "name": "袁老奶米线(思澜碑店)",
-      "push": 2,
-      "done": 0,
-      "cancel": 0,
-      "overtime": 0,
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 83,
+      "done": 70,
+      "cancel": 1,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 2
+      "ongoing": 12
     },
     {
-      "name": "正宗隆江猪脚饭",
-      "push": 1,
-      "done": 0,
+      "name": "刀马旦老成都板凳面(普洱店)",
+      "push": 13,
+      "done": 13,
       "cancel": 0,
-      "overtime": 0,
+      "overtime": 2,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 0
     }
   ],
-  "merchantCount": 7,
-  "withDone": 0,
+  "topCancel": [
+    {
+      "name": "京东便利店",
+      "push": 30,
+      "done": 20,
+      "cancel": 10,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 0
+    },
+    {
+      "name": "高",
+      "push": 35,
+      "done": 20,
+      "cancel": 5,
+      "overtime": 0,
+      "arrived": 3,
+      "ongoing": 10
+    },
+    {
+      "name": "你的把饼",
+      "push": 5,
+      "done": 1,
+      "cancel": 4,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 0
+    }
+  ],
+  "topOngoing": [
+    {
+      "name": "库迪咖啡(雅侎之星店)",
+      "push": 63,
+      "done": 40,
+      "cancel": 2,
+      "overtime": 0,
+      "arrived": 1,
+      "ongoing": 21
+    },
+    {
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 15,
+      "done": 0,
+      "cancel": 0,
+      "overtime": 0,
+      "arrived": 0,
+      "ongoing": 15
+    },
+    {
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 83,
+      "done": 70,
+      "cancel": 1,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 12
+    }
+  ],
+  "merchantCount": 714,
+  "withDone": 545,
   "cardMeals": 0,
-  "scheduleNode": "23:30",
+  "scheduleNode": "10:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261125000220.png",
+      "file": "top8_combined_20261125103244.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125000220.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261125103244.png"
     }
   ]
 }
