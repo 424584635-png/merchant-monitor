@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-26 11:32:51",
-  "dydTime": "2026-11-26 11:32:51",
-  "cdydTime": "2026-11-26 11:30:09",
-  "buildTime": "2026-11-26 11:32:52",
+  "dataTime": "2026-11-26 12:03:16",
+  "dydTime": "2026-11-26 12:03:16",
+  "cdydTime": "2026-11-26 12:00:14",
+  "buildTime": "2026-11-26 12:03:17",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-26 今日",
-  "rows": 6572,
-  "fullCount": 6572,
-  "matchRate": 0.2935179549604382,
+  "rows": 8372,
+  "fullCount": 8372,
+  "matchRate": 0.36574295269947443,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 6572,
-    "done": 4247,
-    "cancel": 155,
-    "overtime": 25,
-    "arrived": 130,
-    "create": 104,
-    "ongoing": 2170
+    "push": 8372,
+    "done": 5572,
+    "cancel": 197,
+    "overtime": 114,
+    "arrived": 100,
+    "create": 83,
+    "ongoing": 2603
   },
   "topOvertime": [
     {
-      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 56,
-      "done": 23,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 85,
+      "done": 47,
       "cancel": 0,
-      "overtime": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 33
+      "ongoing": 38
     },
     {
-      "name": "啊燕家",
-      "push": 37,
-      "done": 27,
+      "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
+      "push": 73,
+      "done": 36,
       "cancel": 0,
-      "overtime": 1,
-      "arrived": 1,
-      "ongoing": 10
+      "overtime": 3,
+      "arrived": 0,
+      "ongoing": 37
     },
     {
       "name": "云县凤翔鸡肉米线(倒生根总店)",
-      "push": 36,
-      "done": 31,
+      "push": 41,
+      "done": 33,
       "cancel": 0,
-      "overtime": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 5
+      "ongoing": 8
     }
   ],
   "topCancel": [
     {
       "name": "李",
-      "push": 61,
-      "done": 33,
+      "push": 78,
+      "done": 44,
       "cancel": 16,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 12
-    },
-    {
-      "name": "吉友超市",
-      "push": 13,
-      "done": 6,
-      "cancel": 6,
-      "overtime": 0,
+      "overtime": 2,
       "arrived": 1,
-      "ongoing": 1
+      "ongoing": 18
     },
     {
       "name": "京东便利店",
-      "push": 17,
-      "done": 11,
-      "cancel": 5,
+      "push": 22,
+      "done": 12,
+      "cancel": 6,
       "overtime": 0,
+      "arrived": 0,
+      "ongoing": 4
+    },
+    {
+      "name": "吉友超市",
+      "push": 14,
+      "done": 7,
+      "cancel": 6,
+      "overtime": 1,
       "arrived": 0,
       "ongoing": 1
     }
   ],
   "topOngoing": [
     {
-      "name": "版纳人家米线（普院东区食堂店）",
-      "push": 67,
-      "done": 24,
-      "cancel": 0,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 43
+      "name": "福苑老街牛肉米干(人民路老店)",
+      "push": 199,
+      "done": 145,
+      "cancel": 2,
+      "overtime": 1,
+      "arrived": 4,
+      "ongoing": 52
     },
     {
-      "name": "福苑老街牛肉米干(人民路老店)",
-      "push": 160,
-      "done": 117,
-      "cancel": 1,
-      "overtime": 0,
+      "name": "版纳人家米线（普院东区食堂店）",
+      "push": 85,
+      "done": 47,
+      "cancel": 0,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 42
+      "ongoing": 38
     },
     {
       "name": "康师傅现炒中式快餐(普洱学院西区食堂二楼店)",
-      "push": 56,
-      "done": 23,
+      "push": 73,
+      "done": 36,
       "cancel": 0,
-      "overtime": 1,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 33
+      "ongoing": 37
     }
   ],
-  "merchantCount": 1031,
-  "withDone": 811,
-  "cardMeals": 4,
-  "scheduleNode": "11:30",
+  "merchantCount": 1145,
+  "withDone": 967,
+  "cardMeals": 1,
+  "scheduleNode": "12:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261126113252.png",
+      "file": "top8_combined_20261126120317.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261126113252.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261126120317.png"
     }
   ]
 }
