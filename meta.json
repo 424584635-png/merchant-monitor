@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-27 22:03:13",
-  "dydTime": "2026-11-27 22:03:13",
-  "cdydTime": "2026-11-27 22:00:48",
-  "buildTime": "2026-11-27 22:03:15",
+  "dataTime": "2026-11-27 23:43:07",
+  "dydTime": "2026-11-27 23:43:07",
+  "cdydTime": "2026-11-27 23:39:50",
+  "buildTime": "2026-11-27 23:43:09",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-27 今日",
-  "rows": 25891,
-  "fullCount": 25891,
-  "matchRate": 0.34961955892008806,
+  "rows": 27792,
+  "fullCount": 27792,
+  "matchRate": 0.3203439838802533,
   "lines": [
     "大网",
     "全城送",
@@ -23,112 +23,112 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 25891,
-    "done": 24561,
-    "cancel": 551,
-    "overtime": 239,
-    "arrived": 66,
-    "create": 62,
-    "ongoing": 779
+    "push": 27792,
+    "done": 26686,
+    "cancel": 617,
+    "overtime": 271,
+    "arrived": 38,
+    "create": 83,
+    "ongoing": 489
   },
   "topOvertime": [
     {
-      "name": "老板",
-      "push": 366,
-      "done": 301,
-      "cancel": 56,
+      "name": "米米家(悦城时光里店)",
+      "push": 197,
+      "done": 189,
+      "cancel": 4,
       "overtime": 6,
       "arrived": 0,
-      "ongoing": 9
+      "ongoing": 4
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 355,
-      "done": 336,
-      "cancel": 7,
-      "overtime": 4,
-      "arrived": 1,
-      "ongoing": 12
+      "name": "德克士振兴店",
+      "push": 114,
+      "done": 99,
+      "cancel": 5,
+      "overtime": 6,
+      "arrived": 4,
+      "ongoing": 10
     },
     {
       "name": "浅草风(普洱广场店)",
       "push": 267,
-      "done": 259,
+      "done": 264,
       "cancel": 3,
-      "overtime": 4,
+      "overtime": 5,
       "arrived": 0,
-      "ongoing": 5
+      "ongoing": 0
     }
   ],
   "topCancel": [
     {
       "name": "老板",
-      "push": 366,
-      "done": 301,
+      "push": 379,
+      "done": 321,
       "cancel": 56,
-      "overtime": 6,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 9
+      "ongoing": 2
     },
     {
       "name": "京东便利店",
-      "push": 34,
-      "done": 22,
-      "cancel": 11,
-      "overtime": 0,
+      "push": 40,
+      "done": 25,
+      "cancel": 14,
+      "overtime": 1,
       "arrived": 0,
       "ongoing": 1
     },
     {
-      "name": "霸王茶姬(普洱1735奥莱小镇店)",
-      "push": 59,
-      "done": 51,
-      "cancel": 8,
-      "overtime": 0,
+      "name": "快邻达超市(普洱店)",
+      "push": 408,
+      "done": 388,
+      "cancel": 9,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 11
     }
   ],
   "topOngoing": [
     {
-      "name": "德克士振兴店",
-      "push": 80,
-      "done": 61,
-      "cancel": 3,
-      "overtime": 2,
-      "arrived": 3,
-      "ongoing": 16
-    },
-    {
-      "name": "开心邻里(普洱店)",
-      "push": 261,
-      "done": 239,
-      "cancel": 7,
-      "overtime": 2,
+      "name": "优购哆超市(普洱店)",
+      "push": 309,
+      "done": 291,
+      "cancel": 5,
+      "overtime": 3,
       "arrived": 0,
-      "ongoing": 15
+      "ongoing": 13
     },
     {
-      "name": "封二烧烤",
-      "push": 56,
-      "done": 41,
-      "cancel": 0,
-      "overtime": 0,
+      "name": "快邻达超市(普洱店)",
+      "push": 408,
+      "done": 388,
+      "cancel": 9,
+      "overtime": 4,
+      "arrived": 0,
+      "ongoing": 11
+    },
+    {
+      "name": "德克士振兴店",
+      "push": 114,
+      "done": 99,
+      "cancel": 5,
+      "overtime": 6,
       "arrived": 4,
-      "ongoing": 15
+      "ongoing": 10
     }
   ],
-  "merchantCount": 1674,
-  "withDone": 1625,
+  "merchantCount": 1700,
+  "withDone": 1656,
   "cardMeals": 0,
-  "scheduleNode": "22:00",
+  "scheduleNode": "23:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261127220315.png",
+      "file": "top8_combined_20261127234309.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127220315.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127234309.png"
     }
   ]
 }
