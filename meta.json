@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-27 17:32:57",
-  "dydTime": "2026-11-27 17:32:57",
-  "cdydTime": "2026-11-27 17:30:32",
-  "buildTime": "2026-11-27 17:32:59",
+  "dataTime": "2026-11-27 18:41:59",
+  "dydTime": "2026-11-27 18:41:59",
+  "cdydTime": "2026-11-27 18:37:31",
+  "buildTime": "2026-11-27 18:42:32",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-27 今日",
-  "rows": 16707,
-  "fullCount": 16707,
-  "matchRate": 0.5329502603699048,
+  "rows": 19493,
+  "fullCount": 19493,
+  "matchRate": 0.446467962858462,
   "lines": [
     "大网",
     "全城送",
@@ -23,38 +23,38 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 16707,
-    "done": 15225,
-    "cancel": 335,
-    "overtime": 160,
-    "arrived": 62,
-    "create": 94,
-    "ongoing": 1147
+    "push": 19493,
+    "done": 17981,
+    "cancel": 398,
+    "overtime": 169,
+    "arrived": 111,
+    "create": 71,
+    "ongoing": 1114
   },
   "topOvertime": [
     {
+      "name": "老板",
+      "push": 276,
+      "done": 219,
+      "cancel": 41,
+      "overtime": 8,
+      "arrived": 0,
+      "ongoing": 16
+    },
+    {
       "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 80,
-      "done": 53,
+      "push": 92,
+      "done": 83,
       "cancel": 3,
       "overtime": 5,
-      "arrived": 7,
-      "ongoing": 24
+      "arrived": 1,
+      "ongoing": 6
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 225,
-      "done": 211,
-      "cancel": 6,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 8
-    },
-    {
-      "name": "全好佳超市(普洱店)",
-      "push": 170,
-      "done": 161,
-      "cancel": 6,
+      "name": "淘宝便利店(普洱店)",
+      "push": 138,
+      "done": 132,
+      "cancel": 3,
       "overtime": 3,
       "arrived": 0,
       "ongoing": 3
@@ -63,12 +63,12 @@
   "topCancel": [
     {
       "name": "老板",
-      "push": 229,
-      "done": 186,
-      "cancel": 28,
-      "overtime": 2,
-      "arrived": 1,
-      "ongoing": 15
+      "push": 276,
+      "done": 219,
+      "cancel": 41,
+      "overtime": 8,
+      "arrived": 0,
+      "ongoing": 16
     },
     {
       "name": "霸王茶姬(普洱1735奥莱小镇店)",
@@ -80,55 +80,55 @@
       "ongoing": 0
     },
     {
-      "name": "快邻达超市(普洱店)",
-      "push": 225,
-      "done": 211,
-      "cancel": 6,
-      "overtime": 4,
+      "name": "京东便利店",
+      "push": 23,
+      "done": 14,
+      "cancel": 8,
+      "overtime": 1,
       "arrived": 0,
-      "ongoing": 8
+      "ongoing": 1
     }
   ],
   "topOngoing": [
     {
-      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 80,
-      "done": 53,
-      "cancel": 3,
-      "overtime": 5,
-      "arrived": 7,
-      "ongoing": 24
-    },
-    {
-      "name": "滇禾轻食·中式健康餐(普洱店)",
-      "push": 73,
-      "done": 54,
-      "cancel": 0,
-      "overtime": 0,
+      "name": "老板",
+      "push": 276,
+      "done": 219,
+      "cancel": 41,
+      "overtime": 8,
       "arrived": 0,
-      "ongoing": 19
+      "ongoing": 16
     },
     {
-      "name": "厨禾喜酱／炒饭／盖饭(普洱本地好店)",
-      "push": 118,
-      "done": 99,
+      "name": "开心邻里(普洱店)",
+      "push": 174,
+      "done": 155,
+      "cancel": 5,
+      "overtime": 1,
+      "arrived": 0,
+      "ongoing": 14
+    },
+    {
+      "name": "只投螺碗柳州螺蛳粉",
+      "push": 111,
+      "done": 96,
       "cancel": 1,
-      "overtime": 0,
-      "arrived": 5,
-      "ongoing": 18
+      "overtime": 3,
+      "arrived": 2,
+      "ongoing": 14
     }
   ],
-  "merchantCount": 1482,
-  "withDone": 1422,
-  "cardMeals": 2,
-  "scheduleNode": "17:30",
+  "merchantCount": 1544,
+  "withDone": 1488,
+  "cardMeals": 0,
+  "scheduleNode": "18:30",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261127173259.png",
+      "file": "top8_combined_20261127184232.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127173259.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127184232.png"
     }
   ]
 }
