@@ -1,13 +1,13 @@
 {
-  "dataTime": "2026-11-27 21:03:14",
-  "dydTime": "2026-11-27 21:03:14",
-  "cdydTime": "2026-11-27 21:00:50",
-  "buildTime": "2026-11-27 21:03:16",
+  "dataTime": "2026-11-27 22:03:13",
+  "dydTime": "2026-11-27 22:03:13",
+  "cdydTime": "2026-11-27 22:00:48",
+  "buildTime": "2026-11-27 22:03:15",
   "siteUrl": "https://424584635-png.github.io/merchant-monitor/",
   "scope": "2026-11-27 今日",
-  "rows": 24300,
-  "fullCount": 24300,
-  "matchRate": 0.3850205761316872,
+  "rows": 25891,
+  "fullCount": 25891,
+  "matchRate": 0.34961955892008806,
   "lines": [
     "大网",
     "全城送",
@@ -23,61 +23,61 @@
     "出餐后调度"
   ],
   "global": {
-    "push": 24300,
-    "done": 23066,
-    "cancel": 508,
-    "overtime": 232,
-    "arrived": 63,
-    "create": 61,
-    "ongoing": 726
+    "push": 25891,
+    "done": 24561,
+    "cancel": 551,
+    "overtime": 239,
+    "arrived": 66,
+    "create": 62,
+    "ongoing": 779
   },
   "topOvertime": [
     {
+      "name": "老板",
+      "push": 366,
+      "done": 301,
+      "cancel": 56,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 9
+    },
+    {
       "name": "快邻达超市(普洱店)",
-      "push": 330,
-      "done": 316,
+      "push": 355,
+      "done": 336,
       "cancel": 7,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 7
+      "overtime": 4,
+      "arrived": 1,
+      "ongoing": 12
     },
     {
-      "name": "叙围(普洱店)",
-      "push": 193,
-      "done": 191,
-      "cancel": 2,
-      "overtime": 6,
-      "arrived": 0,
-      "ongoing": 0
-    },
-    {
-      "name": "塔斯汀·中国汉堡(普洱市大荒地美食城店)",
-      "push": 104,
-      "done": 100,
+      "name": "浅草风(普洱广场店)",
+      "push": 267,
+      "done": 259,
       "cancel": 3,
-      "overtime": 6,
+      "overtime": 4,
       "arrived": 0,
-      "ongoing": 1
+      "ongoing": 5
     }
   ],
   "topCancel": [
     {
       "name": "老板",
-      "push": 352,
-      "done": 292,
-      "cancel": 55,
-      "overtime": 5,
-      "arrived": 1,
-      "ongoing": 5
+      "push": 366,
+      "done": 301,
+      "cancel": 56,
+      "overtime": 6,
+      "arrived": 0,
+      "ongoing": 9
     },
     {
       "name": "京东便利店",
-      "push": 29,
-      "done": 20,
-      "cancel": 9,
+      "push": 34,
+      "done": 22,
+      "cancel": 11,
       "overtime": 0,
       "arrived": 0,
-      "ongoing": 0
+      "ongoing": 1
     },
     {
       "name": "霸王茶姬(普洱1735奥莱小镇店)",
@@ -91,44 +91,44 @@
   ],
   "topOngoing": [
     {
-      "name": "沃尔玛(林源路店)",
-      "push": 168,
-      "done": 142,
-      "cancel": 2,
-      "overtime": 0,
-      "arrived": 0,
-      "ongoing": 24
+      "name": "德克士振兴店",
+      "push": 80,
+      "done": 61,
+      "cancel": 3,
+      "overtime": 2,
+      "arrived": 3,
+      "ongoing": 16
     },
     {
-      "name": "老街小串串烧烤(茶马古镇店)",
-      "push": 28,
-      "done": 17,
+      "name": "开心邻里(普洱店)",
+      "push": 261,
+      "done": 239,
+      "cancel": 7,
+      "overtime": 2,
+      "arrived": 0,
+      "ongoing": 15
+    },
+    {
+      "name": "封二烧烤",
+      "push": 56,
+      "done": 41,
       "cancel": 0,
       "overtime": 0,
-      "arrived": 2,
-      "ongoing": 11
-    },
-    {
-      "name": "优购哆超市(普洱店)",
-      "push": 247,
-      "done": 236,
-      "cancel": 2,
-      "overtime": 4,
-      "arrived": 0,
-      "ongoing": 9
+      "arrived": 4,
+      "ongoing": 15
     }
   ],
-  "merchantCount": 1651,
-  "withDone": 1598,
+  "merchantCount": 1674,
+  "withDone": 1625,
   "cardMeals": 0,
-  "scheduleNode": "21:00",
+  "scheduleNode": "22:00",
   "images": [
     {
       "key": "combined",
       "title": "大网 Top8 商户明细（到店+生成运单）",
-      "file": "top8_combined_20261127210316.png",
+      "file": "top8_combined_20261127220315.png",
       "count": 8,
-      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127210316.png"
+      "url": "https://424584635-png.github.io/merchant-monitor/shots/top8_combined_20261127220315.png"
     }
   ]
 }
